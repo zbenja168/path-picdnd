@@ -4,1042 +4,1191 @@
     "imageRef": "padnd-001_pa002_f03.png",
     "label": "Y-incision",
     "category": "Pathology",
-    "brick": "Autopsy"
+    "brick": "Autopsy",
+    "explanation": "The autopsy internal exam classically begins with a Y-shaped incision extending from each shoulder to the mid-chest and down the midline, allowing the thoracic and abdominal cavities to be opened as shown."
   },
   {
     "id": "padnd-002",
     "imageRef": "padnd-002_pa002_f04.png",
     "label": "Heart",
     "category": "Gross Anatomy",
-    "brick": "Autopsy"
+    "brick": "Autopsy",
+    "explanation": "The labeled superior/inferior vena cava, aorta, pulmonary artery and veins, atria, and ventricles identify this as a dissection of the heart, demonstrating the four-chamber cardiac anatomy."
   },
   {
     "id": "padnd-003",
     "imageRef": "padnd-003_pa002_f05.png",
     "label": "Cirrhotic liver",
     "category": "Pathology",
-    "brick": "Autopsy"
+    "brick": "Autopsy",
+    "explanation": "The uniform micro/macronodular architecture with intervening fibrous bands in a liver from a chronic alcohol user is characteristic of cirrhosis, the end-stage of diffuse hepatic fibrosis and regenerative nodule formation."
   },
   {
     "id": "padnd-004",
     "imageRef": "padnd-004_pa003_f03.png",
     "label": "Exudate vs transudate",
     "category": "Pathology",
-    "brick": "Hemodynamics and Shock"
+    "brick": "Hemodynamics and Shock",
+    "explanation": "The middle panel depicts an exudate: inflammatory mediators cause vasodilation and increased interendothelial permeability, allowing protein and cells to escape. The bottom panel shows a transudate, a low-protein ultrafiltrate driven by hydrostatic/oncotic imbalance without increased permeability."
   },
   {
     "id": "padnd-005",
     "imageRef": "padnd-005_pa004_f02.png",
     "label": "Coronary thrombosis",
     "category": "Pathology",
-    "brick": "Thrombosis and Its Consequences"
+    "brick": "Thrombosis and Its Consequences",
+    "explanation": "An occlusive thrombus in a coronary artery interrupts blood flow to the myocardium, producing ischemic necrosis (myocardial infarction)."
   },
   {
     "id": "padnd-006",
     "imageRef": "padnd-006_pa004_f04.png",
     "label": "Recanalization",
     "category": "Histology & Cell Biology",
-    "brick": "Thrombosis and Its Consequences"
+    "brick": "Thrombosis and Its Consequences",
+    "explanation": "New endothelial-lined lumina forming through an organized thrombus create channels that partially restore blood flow through the previously occluded vessel."
   },
   {
     "id": "padnd-007",
     "imageRef": "padnd-007_pa004_f05.png",
     "label": "Pulmonary embolism",
     "category": "Pathology",
-    "brick": "Thrombosis and Its Consequences"
+    "brick": "Thrombosis and Its Consequences",
+    "explanation": "A large embolus obstructing a major pulmonary artery abruptly increases right ventricular afterload, which can precipitate acute right heart failure and sudden death."
   },
   {
     "id": "padnd-008",
     "imageRef": "padnd-008_pa004_f06.png",
     "label": "Infarcts",
     "category": "Pathology",
-    "brick": "Thrombosis and Its Consequences"
+    "brick": "Thrombosis and Its Consequences",
+    "explanation": "Red infarcts occur in tissues with dual or collateral circulation (such as lung), where blood from the unobstructed supply seeps into the necrotic zone; pale infarcts occur in end-arterial organs like spleen."
   },
   {
     "id": "padnd-009",
     "imageRef": "padnd-009_pa005_f02.png",
     "label": "Transfusion medicine",
     "category": "Lab & Diagnostics",
-    "brick": "Introduction to Clinical Pathology"
+    "brick": "Introduction to Clinical Pathology",
+    "explanation": "The instruments pictured are automated blood-bank analyzers used for ABO/Rh typing, antibody screening, and crossmatching to support safe blood transfusion."
   },
   {
     "id": "padnd-010",
     "imageRef": "padnd-010_pa005_f03.png",
     "label": "Clinical chemistry",
     "category": "Lab & Diagnostics",
-    "brick": "Introduction to Clinical Pathology"
+    "brick": "Introduction to Clinical Pathology",
+    "explanation": "This is a clinical chemistry laboratory, which uses large automated chemistry analyzers to measure electrolytes, glucose, liver and kidney panels, and other biochemical analytes at high volume."
   },
   {
     "id": "padnd-011",
     "imageRef": "padnd-011_pa005_f05.png",
     "label": "Microbiology",
     "category": "Lab & Diagnostics",
-    "brick": "Introduction to Clinical Pathology"
+    "brick": "Introduction to Clinical Pathology",
+    "explanation": "This is the microbiology laboratory, which cultures specimens on media plates to isolate and identify micro-organisms and guide antimicrobial therapy."
   },
   {
     "id": "padnd-012",
     "imageRef": "padnd-012_pa005_f06.png",
     "label": "Disk diffusion test",
     "category": "Lab & Diagnostics",
-    "brick": "Introduction to Clinical Pathology"
+    "brick": "Introduction to Clinical Pathology",
+    "explanation": "This is a disk-diffusion (Kirby-Bauer) susceptibility test. A zone of inhibited growth around a disk means the antibiotic diffusing from it suppresses the organism, indicating susceptibility; absence of a zone indicates resistance."
   },
   {
     "id": "padnd-013",
     "imageRef": "padnd-013_pa005_f07.png",
     "label": "Urinalysis",
     "category": "Lab & Diagnostics",
-    "brick": "Introduction to Clinical Pathology"
+    "brick": "Introduction to Clinical Pathology",
+    "explanation": "This is a urine dipstick being read against a color chart, part of the urinalysis chemical exam that assesses pH, protein, glucose, ketones, bilirubin, leukocyte esterase, nitrites, and blood."
   },
   {
     "id": "padnd-014",
     "imageRef": "padnd-014_pa006_f01.png",
     "label": "Pseudomembranous colitis",
     "category": "Pathology",
-    "brick": "Introduction to Infection"
+    "brick": "Introduction to Infection",
+    "explanation": "The tan-white pseudomembrane of inflammatory cells and debris, together with the crypt \"volcano\" eruption of neutrophils, is the hallmark of pseudomembranous colitis caused by toxin-producing Clostridioides difficile, typically after antibiotic disruption of gut flora."
   },
   {
     "id": "padnd-015",
     "imageRef": "padnd-015_pa006_f02.png",
     "label": "Infective endocarditis",
     "category": "Pathology",
-    "brick": "Introduction to Infection"
+    "brick": "Introduction to Infection",
+    "explanation": "Friable, destructive valvular vegetations composed of organisms, fibrin, and inflammatory cells indicate infective endocarditis; Streptococcus viridans classically seeds abnormal or damaged valves while Staphylococcus aureus can attack even previously normal or congenitally bicuspid valves."
   },
   {
     "id": "padnd-016",
     "imageRef": "padnd-016_pa007_f01.png",
     "label": "Malar rash",
     "category": "Pathology",
-    "brick": "Autoimmune Disease"
+    "brick": "Autoimmune Disease",
+    "explanation": "The photosensitive butterfly (malar) rash sparing the nasolabial folds is a classic mucocutaneous manifestation of SLE, a type III hypersensitivity disease driven by immune-complex deposition."
   },
   {
     "id": "padnd-017",
     "imageRef": "padnd-017_pa007_f08.png",
     "label": "Granulomatosis with polyangiitis",
     "category": "Pathology",
-    "brick": "Autoimmune Disease"
+    "brick": "Autoimmune Disease",
+    "explanation": "The triad of upper-respiratory disease, necrotizing granulomatous lung inflammation, and glomerulonephritis with PR3-ANCA defines granulomatosis with polyangiitis; histology shows giant cells, geographic granulomatous necrosis, and small-vessel vasculitis."
   },
   {
     "id": "padnd-018",
     "imageRef": "padnd-018_pa007_f11.png",
     "label": "Crescentic glomerulonephritis",
     "category": "Pathology",
-    "brick": "Autoimmune Disease"
+    "brick": "Autoimmune Disease",
+    "explanation": "A cellular crescent within Bowman's space signifies severe glomerular injury with rapidly progressive glomerulonephritis; the accompanying immunofluorescence shows mesangial IgA deposition typical of HSP nephritis."
   },
   {
     "id": "padnd-019",
     "imageRef": "padnd-019_pa008_f02.png",
     "label": "Rheumatic heart disease",
     "category": "Pathology",
-    "brick": "Immune-Mediated Damage and Granulomatous Diseases"
+    "brick": "Immune-Mediated Damage and Granulomatous Diseases",
+    "explanation": "Small verrucae along the leaflet line of closure plus Aschoff bodies (nodules of lymphocytes and macrophages) are hallmarks of rheumatic heart disease, an autoimmune sequela of group A streptococcal infection that can progress to fibrosis and mitral stenosis."
   },
   {
     "id": "padnd-020",
     "imageRef": "padnd-020_pa008_f03.png",
     "label": "Erythema marginatum",
     "category": "Pathology",
-    "brick": "Immune-Mediated Damage and Granulomatous Diseases"
+    "brick": "Immune-Mediated Damage and Granulomatous Diseases",
+    "explanation": "Erythema marginatum is a nonpruritic, migratory serpiginous rash of acute rheumatic fever attributed to antibody cross-reaction (molecular mimicry) against keratin, not to direct infection of the skin."
   },
   {
     "id": "padnd-021",
     "imageRef": "padnd-021_pa008_f06.png",
     "label": "Poststreptococcal GN",
     "category": "Pathology",
-    "brick": "Immune-Mediated Damage and Granulomatous Diseases"
+    "brick": "Immune-Mediated Damage and Granulomatous Diseases",
+    "explanation": "Poststreptococcal glomerulonephritis shows a proliferative, hypercellular glomerulus with subepithelial 'humps' on EM and coarse granular ('lumpy-bumpy') immunofluorescence for IgG and C3, indicating immune complex-mediated injury."
   },
   {
     "id": "padnd-022",
     "imageRef": "padnd-022_pa008_f07.png",
     "label": "Chlamydial inclusions",
     "category": "Lab & Diagnostics",
-    "brick": "Immune-Mediated Damage and Granulomatous Diseases"
+    "brick": "Immune-Mediated Damage and Granulomatous Diseases",
+    "explanation": "Chlamydia trachomatis is an obligate intracellular pathogen that forms glycogen-rich intracytoplasmic inclusions, demonstrable by immunofluorescent antibodies and iodine staining."
   },
   {
     "id": "padnd-023",
     "imageRef": "padnd-023_pa008_f08.png",
     "label": "Neonatal conjunctivitis",
     "category": "Pathology",
-    "brick": "Immune-Mediated Damage and Granulomatous Diseases"
+    "brick": "Immune-Mediated Damage and Granulomatous Diseases",
+    "explanation": "Neonatal conjunctivitis from vertical transmission through the birth canal is classically caused by C. trachomatis and N. gonorrhoeae, making maternal screening important for prevention."
   },
   {
     "id": "padnd-024",
     "imageRef": "padnd-024_pa008_f09.png",
     "label": "Neisseria gonorrhoeae",
     "category": "Lab & Diagnostics",
-    "brick": "Immune-Mediated Damage and Granulomatous Diseases"
+    "brick": "Immune-Mediated Damage and Granulomatous Diseases",
+    "explanation": "Gram-negative diplococci arranged in pairs within neutrophils are characteristic of Neisseria gonorrhoeae, an intracellular pathogen."
   },
   {
     "id": "padnd-025",
     "imageRef": "padnd-025_pa008_f13.png",
     "label": "Caseating granuloma",
     "category": "Pathology",
-    "brick": "Immune-Mediated Damage and Granulomatous Diseases"
+    "brick": "Immune-Mediated Damage and Granulomatous Diseases",
+    "explanation": "Central necrosis within a granuloma of epithelioid histiocytes and multinucleated giant cells indicates caseating granulomatous inflammation, seen here in a fungal (Histoplasma) infection and typical of many mycobacterial/fungal infections."
   },
   {
     "id": "padnd-026",
     "imageRef": "padnd-026_pa008_f14.png",
     "label": "Granulomatosis with polyangiitis",
     "category": "Pathology",
-    "brick": "Immune-Mediated Damage and Granulomatous Diseases"
+    "brick": "Immune-Mediated Damage and Granulomatous Diseases",
+    "explanation": "Granulomatosis with polyangiitis features necrotizing granulomas plus vasculitis of the respiratory tract and kidney and is mediated by anti-proteinase 3 antibodies (PR3-ANCA, formerly c-ANCA)."
   },
   {
     "id": "padnd-027",
     "imageRef": "padnd-027_pa008_f15.png",
     "label": "Crescentic glomerulonephritis",
     "category": "Pathology",
-    "brick": "Immune-Mediated Damage and Granulomatous Diseases"
+    "brick": "Immune-Mediated Damage and Granulomatous Diseases",
+    "explanation": "Rapidly progressive glomerulonephritis is defined by crescents of proliferating cells within Bowman space; it is a severe consequence of granulomatosis with polyangiitis rather than a granuloma itself."
   },
   {
     "id": "padnd-028",
     "imageRef": "padnd-028_pa008_f16.png",
     "label": "Foreign body granuloma",
     "category": "Pathology",
-    "brick": "Immune-Mediated Damage and Granulomatous Diseases"
+    "brick": "Immune-Mediated Damage and Granulomatous Diseases",
+    "explanation": "A splinter (or other exogenous material) too large to be phagocytosed evokes a foreign body granuloma, identified by histiocytes and multinucleated giant cells surrounding the material without a strong T-cell-driven immune response."
   },
   {
     "id": "padnd-029",
     "imageRef": "padnd-029_pa008_f17.png",
     "label": "Talc granuloma",
     "category": "Pathology",
-    "brick": "Immune-Mediated Damage and Granulomatous Diseases"
+    "brick": "Immune-Mediated Damage and Granulomatous Diseases",
+    "explanation": "Inhaled or injected drugs can introduce foreign material such as talc, which is birefringent (bright under polarized light) and provokes a foreign body granulomatous reaction."
   },
   {
     "id": "padnd-030",
     "imageRef": "padnd-030_pa008_f18.png",
     "label": "Sarcoid granuloma",
     "category": "Pathology",
-    "brick": "Immune-Mediated Damage and Granulomatous Diseases"
+    "brick": "Immune-Mediated Damage and Granulomatous Diseases",
+    "explanation": "Non-caseating granulomas with asteroid bodies (star-shaped inclusions) in a young adult are characteristic of sarcoidosis, a diagnosis of exclusion of unknown etiology."
   },
   {
     "id": "padnd-031",
     "imageRef": "padnd-031_pa008_f19.png",
     "label": "Hilar lymphadenopathy",
     "category": "Lab & Diagnostics",
-    "brick": "Immune-Mediated Damage and Granulomatous Diseases"
+    "brick": "Immune-Mediated Damage and Granulomatous Diseases",
+    "explanation": "Symmetric bilateral hilar lymphadenopathy on chest X-ray is a classic radiographic feature of sarcoidosis, correlating with granulomatous involvement of thoracic lymph nodes."
   },
   {
     "id": "padnd-032",
     "imageRef": "padnd-032_pa008_f20.png",
     "label": "Erythema nodosum",
     "category": "Pathology",
-    "brick": "Immune-Mediated Damage and Granulomatous Diseases"
+    "brick": "Immune-Mediated Damage and Granulomatous Diseases",
+    "explanation": "Erythema nodosum presents as tender red nodules, usually on the anterior lower extremities; it is a nonspecific reactive panniculitis that can accompany sarcoidosis and other conditions."
   },
   {
     "id": "padnd-033",
     "imageRef": "padnd-033_pa009_f01.png",
     "label": "Pseudomembranous colitis",
     "category": "Pathology",
-    "brick": "Introduction to Infection"
+    "brick": "Introduction to Infection",
+    "explanation": "A pseudomembrane of inflammatory cells and debris erupting from colonic crypts ('volcano lesions') is characteristic of C. difficile colitis, typically after antibiotic disruption of normal flora; its toxins A and B damage the mucosa."
   },
   {
     "id": "padnd-034",
     "imageRef": "padnd-034_pa009_f02.png",
     "label": "Infective endocarditis",
     "category": "Pathology",
-    "brick": "Introduction to Infection"
+    "brick": "Introduction to Infection",
+    "explanation": "Friable vegetations on the valve leaflets are the hallmark of infective endocarditis, in which bacteria (e.g., S. viridans on the mitral valve, S. aureus on a congenitally bicuspid valve) seed and proliferate on the valve surface."
   },
   {
     "id": "padnd-035",
     "imageRef": "padnd-035_pa009_f05.png",
     "label": "Diphtheria pseudomembrane",
     "category": "Pathology",
-    "brick": "Introduction to Infection"
+    "brick": "Introduction to Infection",
+    "explanation": "Diphtheria toxin from C. diphtheriae produces a tightly adherent gray pseudomembrane of fibrin, dead cells, and inflammatory debris in the pharynx that can obstruct the airway."
   },
   {
     "id": "padnd-036",
     "imageRef": "padnd-036_pa010_f04.png",
     "label": "Epitope",
     "category": "Physiology & Mechanisms",
-    "brick": "Infections, Immunity, and Evading Host Defense"
+    "brick": "Infections, Immunity, and Evading Host Defense",
+    "explanation": "A large foreign molecule displays multiple epitopes, but a particular T-cell (or B-cell) receptor is specific for only one epitope it is programmed to bind, illustrating the specificity of adaptive recognition."
   },
   {
     "id": "padnd-037",
     "imageRef": "padnd-037_pa010_f05.png",
     "label": "Bacterial adhesion",
     "category": "Physiology & Mechanisms",
-    "brick": "Infections, Immunity, and Evading Host Defense"
+    "brick": "Infections, Immunity, and Evading Host Defense",
+    "explanation": "Pili are appendages bearing adhesins that bind specific host receptors (e.g., mannose, fibronectin), allowing the microbe to attach to host cells. Adherence is a first major step in establishing infection."
   },
   {
     "id": "padnd-038",
     "imageRef": "padnd-038_pa010_f06.png",
     "label": "Macrophage activation",
     "category": "Physiology & Mechanisms",
-    "brick": "Infections, Immunity, and Evading Host Defense"
+    "brick": "Infections, Immunity, and Evading Host Defense",
+    "explanation": "Many microbes persist in non-activated macrophages. Helper T-cells release interferon-gamma that activates the macrophage, boosting reactive oxygen species and lysosomal killing so the intracellular pathogen is destroyed."
   },
   {
     "id": "padnd-039",
     "imageRef": "padnd-039_pa010_f07.png",
     "label": "Actin comet tail",
     "category": "Physiology & Mechanisms",
-    "brick": "Infections, Immunity, and Evading Host Defense"
+    "brick": "Infections, Immunity, and Evading Host Defense",
+    "explanation": "Listeria monocytogenes escapes its vacuole using listeriolysin O, then recruits host actin via ActA. Directional actin polymerization forms a comet tail that propels the bacterium into neighboring cells, avoiding extracellular immune exposure."
   },
   {
     "id": "padnd-040",
     "imageRef": "padnd-040_pa010_f08.png",
     "label": "Interferon",
     "category": "Physiology & Mechanisms",
-    "brick": "Infections, Immunity, and Evading Host Defense"
+    "brick": "Infections, Immunity, and Evading Host Defense",
+    "explanation": "Interferon released by infected cells activates 2'-5' oligosynthetase (activating ribonuclease to degrade mRNA) and protein kinase (inhibiting eIF-2). Both require dsRNA to act, halting viral protein synthesis and blocking virus production."
   },
   {
     "id": "padnd-041",
     "imageRef": "padnd-041_pa010_f09.png",
     "label": "Antigenic variation",
     "category": "Physiology & Mechanisms",
-    "brick": "Infections, Immunity, and Evading Host Defense"
+    "brick": "Infections, Immunity, and Evading Host Defense",
+    "explanation": "Neisseria places a new pilin coding sequence next to the promoter by homologous recombination, expressing a pilin variant not recognized by existing antibodies. This antigenic variation lets the organism escape the adaptive response."
   },
   {
     "id": "padnd-042",
     "imageRef": "padnd-042_pa010_f10.png",
     "label": "Herpes labialis",
     "category": "Pathology",
-    "brick": "Infections, Immunity, and Evading Host Defense"
+    "brick": "Infections, Immunity, and Evading Host Defense",
+    "explanation": "Herpes labialis (cold sores) results from reactivation of latent herpes simplex virus, producing grouped vesicles that crust on the lip margin. Latency in sensory ganglia and periodic reactivation are hallmark features."
   },
   {
     "id": "padnd-043",
     "imageRef": "padnd-043_pa011_f01.png",
     "label": "Mycobacterium tuberculosis",
     "category": "Histology & Cell Biology",
-    "brick": "Chronic Infections"
+    "brick": "Chronic Infections",
+    "explanation": "The acid-fast (Ziehl-Neelsen) stain highlights Mycobacterium tuberculosis because its mycolic-acid-rich waxy cell wall retains carbolfuchsin even after acid-alcohol washing."
   },
   {
     "id": "padnd-044",
     "imageRef": "padnd-044_pa011_f05.png",
     "label": "Hilar lymphadenopathy",
     "category": "Lab & Diagnostics",
-    "brick": "Chronic Infections"
+    "brick": "Chronic Infections",
+    "explanation": "A peripheral parenchymal Ghon focus together with ipsilateral hilar lymphadenopathy forms the Ghon/Ranke primary complex of primary tuberculosis."
   },
   {
     "id": "padnd-045",
     "imageRef": "padnd-045_pa011_f06.png",
     "label": "Cavitary tuberculosis",
     "category": "Pathology",
-    "brick": "Chronic Infections"
+    "brick": "Chronic Infections",
+    "explanation": "A robust immune response in a previously sensitized host causes apical cavitation in the well-oxygenated upper lobes, the hallmark of secondary/reactivation pulmonary tuberculosis."
   },
   {
     "id": "padnd-046",
     "imageRef": "padnd-046_pa011_f07.png",
     "label": "Miliary tuberculosis",
     "category": "Pathology",
-    "brick": "Chronic Infections"
+    "brick": "Chronic Infections",
+    "explanation": "Miliary tuberculosis arises from hematogenous dissemination, seeding many organs with innumerable small granulomas that resemble millet seeds."
   },
   {
     "id": "padnd-047",
     "imageRef": "padnd-047_pa011_f10.png",
     "label": "Treponema pallidum",
     "category": "Histology & Cell Biology",
-    "brick": "Chronic Infections"
+    "brick": "Chronic Infections",
+    "explanation": "Silver stains reveal the corkscrew-shaped spirochete Treponema pallidum, the causative agent of syphilis."
   },
   {
     "id": "padnd-048",
     "imageRef": "padnd-048_pa011_f11.png",
     "label": "Chancre",
     "category": "Pathology",
-    "brick": "Chronic Infections"
+    "brick": "Chronic Infections",
+    "explanation": "A single painless ulcer with an indurated clean base at the inoculation site ~3 weeks after infection is the chancre of primary syphilis; chancroid, by contrast, is painful."
   },
   {
     "id": "padnd-049",
     "imageRef": "padnd-049_pa011_f19.png",
     "label": "Tabes dorsalis",
     "category": "Pathology",
-    "brick": "Chronic Infections"
+    "brick": "Chronic Infections",
+    "explanation": "Tabes dorsalis, a form of neurosyphilis, degenerates the dorsal columns and dorsal roots, producing sensory ataxia and impaired proprioception."
   },
   {
     "id": "padnd-050",
     "imageRef": "padnd-050_pa011_f21.png",
     "label": "Congenital syphilis",
     "category": "Pathology",
-    "brick": "Chronic Infections"
+    "brick": "Chronic Infections",
+    "explanation": "Transplacental Treponema pallidum causes congenital syphilis; early findings include snuffles, mucocutaneous lesions/condylomata lata, and rash."
   },
   {
     "id": "padnd-051",
     "imageRef": "padnd-051_pa011_f22.png",
     "label": "Hutchinson teeth",
     "category": "Pathology",
-    "brick": "Chronic Infections"
+    "brick": "Chronic Infections",
+    "explanation": "Notched, peg-shaped incisors (Hutchinson teeth) with saddle nose are late manifestations of congenital syphilis, part of the Hutchinson triad."
   },
   {
     "id": "padnd-052",
     "imageRef": "padnd-052_pa012_f01.png",
     "label": "Ixodes tick",
     "category": "Lab & Diagnostics",
-    "brick": "Chronic Infections"
+    "brick": "Chronic Infections",
+    "explanation": "The image shows the Ixodes (deer) tick, adult and nymph, next to a coin for scale. Ixodes ticks transmit the spirochete Borrelia burgdorferi, the cause of Lyme disease. The nymph is especially important epidemiologically because its small size makes bites easy to miss."
   },
   {
     "id": "padnd-053",
     "imageRef": "padnd-053_pa012_f02.png",
     "label": "Erythema migrans",
     "category": "Pathology",
-    "brick": "Chronic Infections"
+    "brick": "Chronic Infections",
+    "explanation": "The bullseye-like annular erythema with central clearing is erythema migrans, the hallmark of early localized Lyme disease caused by the spirochete Borrelia burgdorferi. It typically appears at the tick bite site and resolves over 4-12 weeks."
   },
   {
     "id": "padnd-054",
     "imageRef": "padnd-054_pa012_f03.png",
     "label": "Oral candidiasis",
     "category": "Pathology",
-    "brick": "Chronic Infections"
+    "brick": "Chronic Infections",
+    "explanation": "Oral candidiasis (thrush) presents as white patches that can be scraped off, reflecting superficial fungal overgrowth of Candida when cell-mediated immunity declines. It is a common early clue to immunosuppression in chronic HIV infection."
   },
   {
     "id": "padnd-055",
     "imageRef": "padnd-055_pa012_f04.png",
     "label": "HIV progression",
     "category": "Physiology & Mechanisms",
-    "brick": "Chronic Infections"
+    "brick": "Chronic Infections",
+    "explanation": "The flow diagram traces HIV from mucosal entry through lymph-node dissemination and viremia to AIDS. Progressive depletion of CD4+ helper T cells is the central event; once the count falls below 200/microL the patient is defined as having AIDS."
   },
   {
     "id": "padnd-056",
     "imageRef": "padnd-056_pa012_f06.png",
     "label": "HSV ulceration",
     "category": "Pathology",
-    "brick": "Chronic Infections"
+    "brick": "Chronic Infections",
+    "explanation": "In advanced immunosuppression, HSV can reactivate to produce chronic, severe perirectal (and oral/esophageal) ulcerations that fail to heal, in contrast to the small self-limited lesions seen in immunocompetent hosts."
   },
   {
     "id": "padnd-057",
     "imageRef": "padnd-057_pa012_f07.png",
     "label": "Pneumocystis jirovecii",
     "category": "Histology & Cell Biology",
-    "brick": "Chronic Infections"
+    "brick": "Chronic Infections",
+    "explanation": "The frothy casts and silver-positive cyst walls identify Pneumocystis jirovecii pneumonia, a defining opportunistic infection of AIDS. It characteristically produces bilateral interstitial infiltrates with diffuse ground-glass opacities on CT."
   },
   {
     "id": "padnd-058",
     "imageRef": "padnd-058_pa012_f09.png",
     "label": "Kaposi sarcoma",
     "category": "Histology & Cell Biology",
-    "brick": "Chronic Infections"
+    "brick": "Chronic Infections",
+    "explanation": "Kaposi sarcoma is composed of proliferating spindled endothelial cells and is associated with HHV-8 (also called KSHV). It is a secondary neoplasm of AIDS, presenting as cutaneous, mucosal, or visceral violaceous lesions."
   },
   {
     "id": "padnd-059",
     "imageRef": "padnd-059_pa012_f10.png",
     "label": "Effusion lymphoma",
     "category": "Histology & Cell Biology",
-    "brick": "Chronic Infections"
+    "brick": "Chronic Infections",
+    "explanation": "Primary effusion lymphoma is an aggressive B-cell lymphoma of body-cavity effusions associated with HHV-8 (often with EBV co-infection). Like other AIDS lymphomas it arises from viral-induced transformation in the setting of immunosuppression."
   },
   {
     "id": "padnd-060",
     "imageRef": "padnd-060_pa013_f01.png",
     "label": "HLA complex",
     "category": "Histology & Cell Biology",
-    "brick": "Transplantation"
+    "brick": "Transplantation",
+    "explanation": "The diagram shows the HLA (MHC) gene complex at 6p21. These genes encode cell-surface MHC molecules that present peptide antigens, allowing the immune system to distinguish self from non-self, which is the basis of transplant matching and rejection."
   },
   {
     "id": "padnd-061",
     "imageRef": "padnd-061_pa013_f02.png",
     "label": "Fatty liver",
     "category": "Pathology",
-    "brick": "Transplantation"
+    "brick": "Transplantation",
+    "explanation": "The pale, yellowed, enlarged appearance is characteristic of hepatic steatosis, in which triglyceride accumulates in hepatocytes. Significant macrovesicular steatosis is a relative or absolute contraindication to using the liver for transplant."
   },
   {
     "id": "padnd-062",
     "imageRef": "padnd-062_pa013_f03.png",
     "label": "Macrovesicular steatosis",
     "category": "Pathology",
-    "brick": "Transplantation"
+    "brick": "Transplantation",
+    "explanation": "A single large fat droplet pushing the nucleus to the edge of the hepatocyte defines macrovesicular steatosis. Confirmation of greater than 30 percent macrovesicular steatosis is associated with poor early graft function."
   },
   {
     "id": "padnd-063",
     "imageRef": "padnd-063_pa013_f05.png",
     "label": "Bridging fibrosis",
     "category": "Pathology",
-    "brick": "Transplantation"
+    "brick": "Transplantation",
+    "explanation": "The trichrome stain colors collagen blue, revealing bridging fibrosis. Fibrosis is graded by extent of involvement and is an important determinant of donor organ viability."
   },
   {
     "id": "padnd-064",
     "imageRef": "padnd-064_pa013_f06.png",
     "label": "Hepatocyte necrosis",
     "category": "Pathology",
-    "brick": "Transplantation"
+    "brick": "Transplantation",
+    "explanation": "Loss of nuclear staining with preserved cell outline is coagulative necrosis of hepatocytes. Greater than 10 percent necrosis may disqualify a donor organ from transplantation."
   },
   {
     "id": "padnd-065",
     "imageRef": "padnd-065_pa013_f07.png",
     "label": "Interstitial fibrosis",
     "category": "Pathology",
-    "brick": "Transplantation"
+    "brick": "Transplantation",
+    "explanation": "Widening of the interstitium by collagen (fibrosis) accompanied by inflammatory cells constitutes interstitial fibrosis and inflammation, a key pathology assessed in donor kidney biopsies."
   },
   {
     "id": "padnd-066",
     "imageRef": "padnd-066_pa013_f08.png",
     "label": "Arterial sclerosis",
     "category": "Pathology",
-    "brick": "Transplantation"
+    "brick": "Transplantation",
+    "explanation": "Arterial sclerosis in the kidney reflects deposition of collagenous matrix and smooth muscle between the endothelium and internal elastic lamina, thickening the intima and narrowing the lumen."
   },
   {
     "id": "padnd-067",
     "imageRef": "padnd-067_pa013_f09.png",
     "label": "Arteriolar hyalinization",
     "category": "Pathology",
-    "brick": "Transplantation"
+    "brick": "Transplantation",
+    "explanation": "Deposition of homogeneous eosinophilic protein material in the arteriolar wall is arteriolar hyalinization (hyaline arteriolosclerosis), commonly associated with hypertension and diabetes in donor kidneys."
   },
   {
     "id": "padnd-068",
     "imageRef": "padnd-068_pa013_f10.png",
     "label": "Glomerulosclerosis",
     "category": "Pathology",
-    "brick": "Transplantation"
+    "brick": "Transplantation",
+    "explanation": "Global glomerulosclerosis is scarring and hyalinization affecting more than half of the glomerulus, obliterating the capillary loops with acellular hyaline material. The proportion of sclerosed glomeruli helps determine kidney viability."
   },
   {
     "id": "padnd-069",
     "imageRef": "padnd-069_pa014_f01.png",
     "label": "Hyperacute rejection",
     "category": "Pathology",
-    "brick": "Transplant Rejection"
+    "brick": "Transplant Rejection",
+    "explanation": "Preformed recipient antibodies against ABO or MHC antigens on graft endothelium activate complement within minutes to hours, causing thrombosis, ischemia, and necrosis (a type II hypersensitivity reaction). The glomerular fibrin thrombi shown are the histologic hallmark of hyperacute rejection."
   },
   {
     "id": "padnd-070",
     "imageRef": "padnd-070_pa016_f03.png",
     "label": "Florid duct lesion",
     "category": "Pathology",
-    "brick": "Infectious and Inflammatory Jaundice"
+    "brick": "Infectious and Inflammatory Jaundice",
+    "explanation": "The florid duct lesion, a granulomatous destruction of interlobular bile ducts with surrounding lymphoplasmacytic infiltrate, is the hallmark histologic finding of primary biliary cholangitis."
   },
   {
     "id": "padnd-071",
     "imageRef": "padnd-071_pa016_f04.png",
     "label": "Primary sclerosing cholangitis",
     "category": "Pathology",
-    "brick": "Infectious and Inflammatory Jaundice"
+    "brick": "Infectious and Inflammatory Jaundice",
+    "explanation": "Concentric 'onion-skin' periductal fibrosis progressing to obliteration of the bile duct is the characteristic histology of primary sclerosing cholangitis."
   },
   {
     "id": "padnd-072",
     "imageRef": "padnd-072_pa016_f05.png",
     "label": "Biliary beading",
     "category": "Lab & Diagnostics",
-    "brick": "Infectious and Inflammatory Jaundice"
+    "brick": "Infectious and Inflammatory Jaundice",
+    "explanation": "Multifocal strictures with intervening dilation ('beading') of the intra- and extrahepatic ducts on MRCP/ERCP is the gold-standard imaging finding of primary sclerosing cholangitis."
   },
   {
     "id": "padnd-073",
     "imageRef": "padnd-073_pa016_f06.png",
     "label": "Chronic viral hepatitis",
     "category": "Histology & Cell Biology",
-    "brick": "Infectious and Inflammatory Jaundice"
+    "brick": "Infectious and Inflammatory Jaundice",
+    "explanation": "Hepatitis C rarely causes symptomatic acute infection but frequently becomes chronic, marked by portal lymphocytic/lymphoplasmacytic inflammation that can progress to cirrhosis."
   },
   {
     "id": "padnd-074",
     "imageRef": "padnd-074_pa016_f07.png",
     "label": "Bridging fibrosis",
     "category": "Histology & Cell Biology",
-    "brick": "Infectious and Inflammatory Jaundice"
+    "brick": "Infectious and Inflammatory Jaundice",
+    "explanation": "The trichrome stain colors collagen blue, highlighting the delicate bridging fibrosis that develops later in the course of chronic hepatitis C."
   },
   {
     "id": "padnd-075",
     "imageRef": "padnd-075_pa017_f04.png",
     "label": "Chondrosarcoma",
     "category": "Pathology",
-    "brick": "Introduction to Neoplasia"
+    "brick": "Introduction to Neoplasia",
+    "explanation": "This is a de-differentiated chondrosarcoma; despite anaplasia, the retained cartilage-like component identifies chondrocytes as the cell of origin."
   },
   {
     "id": "padnd-076",
     "imageRef": "padnd-076_pa017_f05.png",
     "label": "Cellular adaptations",
     "category": "Physiology & Mechanisms",
-    "brick": "Introduction to Neoplasia"
+    "brick": "Introduction to Neoplasia",
+    "explanation": "Metaplasia and the other reversible adaptations shown occur as protective responses to repeated or chronic cellular stress; if the stressor is removed, the cells can revert to their original type."
   },
   {
     "id": "padnd-077",
     "imageRef": "padnd-077_pa017_f06.png",
     "label": "Barrett esophagus",
     "category": "Pathology",
-    "brick": "Introduction to Neoplasia"
+    "brick": "Introduction to Neoplasia",
+    "explanation": "Chronic acid reflux damages esophageal squamous epithelium, which is replaced by protective columnar epithelium with goblet cells; this glandular metaplasia defines Barrett esophagus and carries a risk of adenocarcinoma."
   },
   {
     "id": "padnd-078",
     "imageRef": "padnd-078_pa018_f02.png",
     "label": "Invasive lobular carcinoma",
     "category": "Pathology",
-    "brick": "Cancer Growth and Metastasis"
+    "brick": "Cancer Growth and Metastasis",
+    "explanation": "The single-file infiltration and loss of membranous staining reflect loss of E-cadherin, a homophilic adhesion molecule; its loss disrupts cell-to-cell adhesion, a hallmark of invasive lobular carcinoma. The other functions are unrelated to E-cadherin."
   },
   {
     "id": "padnd-079",
     "imageRef": "padnd-079_pa018_f04.png",
     "label": "Vascular invasion",
     "category": "Pathology",
-    "brick": "Cancer Growth and Metastasis"
+    "brick": "Cancer Growth and Metastasis",
+    "explanation": "Sarcomas of mesenchymal origin invade vessels and characteristically metastasize hematogenously, as shown by tumor filling the vascular lumen. Lymphatic spread is typical of carcinomas, transcoelomic seeding occurs across body cavities, and perineural/direct extension are different routes."
   },
   {
     "id": "padnd-080",
     "imageRef": "padnd-080_pa018_f05.png",
     "label": "Omental metastasis",
     "category": "Pathology",
-    "brick": "Cancer Growth and Metastasis"
+    "brick": "Cancer Growth and Metastasis",
+    "explanation": "Ovarian carcinoma classically seeds the peritoneal cavity, coating the omentum with tumor (omental caking) via transcoelomic spread. The other routes do not explain diffuse serosal/omental studding."
   },
   {
     "id": "padnd-081",
     "imageRef": "padnd-081_pa019_f05.png",
     "label": "Pancreatic ductal adenocarcinoma",
     "category": "Pathology",
-    "brick": "Molecular Basis of Neoplasia"
+    "brick": "Molecular Basis of Neoplasia",
+    "explanation": "Pancreatic ductal adenocarcinoma forms infiltrative duct-like glandular structures composed of neoplastic cells, commonly harbors KRAS mutations, and carries a very poor prognosis."
   },
   {
     "id": "padnd-082",
     "imageRef": "padnd-082_pa019_f07.png",
     "label": "Melanoma",
     "category": "Pathology",
-    "brick": "Molecular Basis of Neoplasia"
+    "brick": "Molecular Basis of Neoplasia",
+    "explanation": "Cutaneous melanoma arises from transformed melanocytes, which produce brown melanin pigment visible histologically; activating BRAF (V600E) mutations are a common oncogenic driver and therapeutic target."
   },
   {
     "id": "padnd-083",
     "imageRef": "padnd-083_pa019_f09.png",
     "label": "Chronic myeloid leukemia",
     "category": "Pathology",
-    "brick": "Molecular Basis of Neoplasia"
+    "brick": "Molecular Basis of Neoplasia",
+    "explanation": "CML marrow is hypercellular with granulocytic hyperplasia, eosinophilia, and small hypolobated megakaryocytes; it is driven by the BCR::ABL fusion producing constitutive tyrosine kinase activity."
   },
   {
     "id": "padnd-084",
     "imageRef": "padnd-084_pa020_f02.png",
     "label": "Rosettes",
     "category": "Histology & Cell Biology",
-    "brick": "Molecular Basis of Neoplasia"
+    "brick": "Molecular Basis of Neoplasia",
+    "explanation": "Homer Wright rosettes (radial cells around a fibrillar center) and Flexner-Wintersteiner rosettes (cells around a true lumen) are both characteristic histologic features of retinoblastoma."
   },
   {
     "id": "padnd-085",
     "imageRef": "padnd-085_pa020_f08.png",
     "label": "Neurofibromatosis 1",
     "category": "Pathology",
-    "brick": "Molecular Basis of Neoplasia"
+    "brick": "Molecular Basis of Neoplasia",
+    "explanation": "Café-au-lait macules and multiple cutaneous neurofibromas are hallmark manifestations of neurofibromatosis type 1, caused by loss of the NF1 GTPase-activating protein on chromosome 17."
   },
   {
     "id": "padnd-086",
     "imageRef": "padnd-086_pa020_f09.png",
     "label": "Hallmarks of cancer",
     "category": "Pathology",
-    "brick": "Molecular Basis of Neoplasia"
+    "brick": "Molecular Basis of Neoplasia",
+    "explanation": "The figure depicts the eight fundamental hallmarks of cancer—the capabilities neoplasms acquire to sustain growth, evade suppression and immune destruction, and invade and metastasize."
   },
   {
     "id": "padnd-087",
     "imageRef": "padnd-087_pa021_f01.png",
     "label": "Mitotic figures",
     "category": "Histology & Cell Biology",
-    "brick": "Introduction to Pathology, Cell Injury, and Adaptation"
+    "brick": "Introduction to Pathology, Cell Injury, and Adaptation",
+    "explanation": "The arrows point to mitotic figures (condensed dividing chromosomes staining dark purple). Abundant mitoses are a morphologic marker of rapid cellular proliferation, seen here in a medulloblastoma."
   },
   {
     "id": "padnd-088",
     "imageRef": "padnd-088_pa021_f03.png",
     "label": "Cellular swelling",
     "category": "Histology & Cell Biology",
-    "brick": "Introduction to Pathology, Cell Injury, and Adaptation"
+    "brick": "Introduction to Pathology, Cell Injury, and Adaptation",
+    "explanation": "Depleted ATP impairs Na+/K+ pumps, causing water influx and cellular swelling with pale, eosinophilic cytoplasm. This is a hallmark of reversible injury and resolves if the stimulus is removed."
   },
   {
     "id": "padnd-089",
     "imageRef": "padnd-089_pa021_f06.png",
     "label": "Mitochondria",
     "category": "Physiology & Mechanisms",
-    "brick": "Introduction to Pathology, Cell Injury, and Adaptation"
+    "brick": "Introduction to Pathology, Cell Injury, and Adaptation",
+    "explanation": "Mitochondrial damage lowers ATP (impairing energy-dependent functions) and raises ROS production, which together damage lipids, proteins, and nucleic acids. Failure to reverse mitochondrial dysfunction marks irreversible injury."
   },
   {
     "id": "padnd-090",
     "imageRef": "padnd-090_pa021_f08.png",
     "label": "Karyolysis",
     "category": "Pathology",
-    "brick": "Introduction to Pathology, Cell Injury, and Adaptation"
+    "brick": "Introduction to Pathology, Cell Injury, and Adaptation",
+    "explanation": "Karyolysis is the fading of basophilic nuclear staining as chromatin is degraded. It is distinct from pyknosis (shrunken dark nuclei) and karyorrhexis (nuclear fragmentation), accompanying the eosinophilia and swelling of injured cells."
   },
   {
     "id": "padnd-091",
     "imageRef": "padnd-091_pa021_f16.png",
     "label": "Bilirubin",
     "category": "Pathology",
-    "brick": "Introduction to Pathology, Cell Injury, and Adaptation"
+    "brick": "Introduction to Pathology, Cell Injury, and Adaptation",
+    "explanation": "Bilirubin is a yellow-brown pigment from heme breakdown that accumulates when bile excretion is impaired. It is distinct from hemosiderin, the iron-containing blood breakdown product."
   },
   {
     "id": "padnd-092",
     "imageRef": "padnd-092_pa021_f17.png",
     "label": "Dystrophic calcification",
     "category": "Pathology",
-    "brick": "Introduction to Pathology, Cell Injury, and Adaptation"
+    "brick": "Introduction to Pathology, Cell Injury, and Adaptation",
+    "explanation": "Dystrophic calcification is calcium deposition in damaged or dying tissue under normal systemic calcium homeostasis, as in this atherosclerotic aortic valve. Metastatic calcification instead occurs in normal tissue with hypercalcemia."
   },
   {
     "id": "padnd-093",
     "imageRef": "padnd-093_pa021_f20.png",
     "label": "Endometrial hyperplasia",
     "category": "Pathology",
-    "brick": "Introduction to Pathology, Cell Injury, and Adaptation"
+    "brick": "Introduction to Pathology, Cell Injury, and Adaptation",
+    "explanation": "Excess estrogen drives increased proliferation of endometrial glandular cells (hyperplasia), producing a bulky lining and a cause of abnormal uterine bleeding."
   },
   {
     "id": "padnd-094",
     "imageRef": "padnd-094_pa021_f22.png",
     "label": "Cell injury",
     "category": "Physiology & Mechanisms",
-    "brick": "Introduction to Pathology, Cell Injury, and Adaptation"
+    "brick": "Introduction to Pathology, Cell Injury, and Adaptation",
+    "explanation": "The figure summarizes how decreased ATP, increased cytosolic calcium, reactive oxygen species, and membrane/DNA damage act through multiple downstream effects to cause cell injury."
   },
   {
     "id": "padnd-095",
     "imageRef": "padnd-095_pa022_f04.png",
     "label": "MHC class I loss",
     "category": "Physiology & Mechanisms",
-    "brick": "Cancer Immune Evasion"
+    "brick": "Cancer Immune Evasion",
+    "explanation": "The tumor is MHC class I-deficient. Because cytotoxic T cells identify targets via antigen presented on MHC class I, loss of this molecule allows the tumor to escape CD8+ T cell-mediated killing."
   },
   {
     "id": "padnd-096",
     "imageRef": "padnd-096_pa022_f09.png",
     "label": "Checkpoint inhibitors",
     "category": "Pharmacology",
-    "brick": "Cancer Immune Evasion"
+    "brick": "Cancer Immune Evasion",
+    "explanation": "Blocking inhibitory checkpoint pathways (CTLA-4 and PD-1/PD-L1) with antibodies removes the brakes on T cells, restoring their ability to activate and kill tumor cells. This checkpoint blockade approach is approved for advanced solid tumors and some lymphomas."
   },
   {
     "id": "padnd-097",
     "imageRef": "padnd-097_pa023_f03.png",
     "label": "Xeroderma pigmentosum",
     "category": "Pathology",
-    "brick": "Hallmarks of Neoplasia: Genomic Instability"
+    "brick": "Hallmarks of Neoplasia: Genomic Instability",
+    "explanation": "Xeroderma pigmentosum results from loss-of-function mutations in nucleotide excision repair, leaving patients unable to remove UV-induced pyrimidine dimers, producing severe photosensitivity, freckling in sun-exposed areas, and greatly increased skin cancer risk."
   },
   {
     "id": "padnd-098",
     "imageRef": "padnd-098_pa023_f04.png",
     "label": "Mismatch repair",
     "category": "Pathology",
-    "brick": "Hallmarks of Neoplasia: Genomic Instability"
+    "brick": "Hallmarks of Neoplasia: Genomic Instability",
+    "explanation": "The figure depicts mismatch repair. Germline mutation of a mismatch-repair gene (MLH1, MSH2, MSH6, PMS2) causes Lynch syndrome (hereditary nonpolyposis colorectal cancer), producing microsatellite instability and markedly increased colorectal and endometrial cancer risk."
   },
   {
     "id": "padnd-099",
     "imageRef": "padnd-099_pa023_f05.png",
     "label": "MMR immunohistochemistry",
     "category": "Lab & Diagnostics",
-    "brick": "Hallmarks of Neoplasia: Genomic Instability"
+    "brick": "Hallmarks of Neoplasia: Genomic Instability",
+    "explanation": "Loss of nuclear staining for MLH1 and PMS2 (which form a heterodimer, so loss of MLH1 destabilizes PMS2) with preserved MSH2/MSH6 indicates a mismatch-repair-deficient tumor. Such deficiency underlies microsatellite instability and is characteristic of Lynch-syndrome-associated cancers."
   },
   {
     "id": "padnd-100",
     "imageRef": "padnd-100_pa023_f07.png",
     "label": "Ataxia telangiectasia",
     "category": "Pathology",
-    "brick": "Hallmarks of Neoplasia: Genomic Instability"
+    "brick": "Hallmarks of Neoplasia: Genomic Instability",
+    "explanation": "The dilated vessels (telangiectasia) with early-onset ataxia indicate ataxia telangiectasia, caused by defective nonhomologous end joining of double-strand breaks. The same defect impairs V(D)J recombination, producing immunodeficiency, and predisposes to leukemia and lymphoma."
   },
   {
     "id": "padnd-101",
     "imageRef": "padnd-101_pa024_f01.png",
     "label": "Small cell carcinoma",
     "category": "Histology & Cell Biology",
-    "brick": "Paraneoplastic Syndromes"
+    "brick": "Paraneoplastic Syndromes",
+    "explanation": "The morphology (small blue cells, scant cytoplasm, nuclear molding, dispersed chromatin) is that of small cell lung carcinoma, a poorly differentiated neuroendocrine tumor derived from Kulchitsky cells. This origin explains its capacity for ectopic hormone production (ACTH, ADH) and neurologic paraneoplastic syndromes."
   },
   {
     "id": "padnd-102",
     "imageRef": "padnd-102_pa025_f01.png",
     "label": "Pap smear",
     "category": "Lab & Diagnostics",
-    "brick": "Epidemiology of Cancer"
+    "brick": "Epidemiology of Cancer",
+    "explanation": "The enlarged, hyperchromatic cells with increased nuclear-to-cytoplasmic ratio represent a high-grade squamous intraepithelial lesion (HSIL). This precancerous dysplasia of the cervix is caused by persistent infection with high-risk strains of human papillomavirus (HPV), which is why HPV testing has become a key screening tool alongside the Pap smear."
   },
   {
     "id": "padnd-103",
     "imageRef": "padnd-103_pa025_f02.png",
     "label": "Colon adenoma",
     "category": "Pathology",
-    "brick": "Epidemiology of Cancer"
+    "brick": "Epidemiology of Cancer",
+    "explanation": "The images show colonic adenomas (adenomatous polyps). Through the adenoma-carcinoma sequence, crowded neoplastic glands progressively accumulate mutations and can invade beyond the basement membrane into the lamina propria, giving rise to colorectal adenocarcinoma. Screening colonoscopy allows their removal before malignant transformation."
   },
   {
     "id": "padnd-104",
     "imageRef": "padnd-104_pa025_f03.png",
     "label": "Mammography",
     "category": "Lab & Diagnostics",
-    "brick": "Epidemiology of Cancer"
+    "brick": "Epidemiology of Cancer",
+    "explanation": "The mammogram shows clustered microcalcifications, a classic early sign of ductal carcinoma in situ (DCIS). Biopsy reveals neoplastic cells expanding a duct without invasion past the basement membrane, along with the characteristic chunky intraductal calcifications. Detecting DCIS by mammography allows treatment before progression to invasive disease."
   },
   {
     "id": "padnd-105",
     "imageRef": "padnd-105_pa026_f01.png",
     "label": "Mediastinal lymphadenopathy",
     "category": "Lab & Diagnostics",
-    "brick": "Pathogen-Associated Neoplasms"
+    "brick": "Pathogen-Associated Neoplasms",
+    "explanation": "Classic Hodgkin lymphoma classically presents with painless enlarged supradiaphragmatic (neck and mediastinal) lymphadenopathy, seen here as bulky anterior mediastinal and paratracheal adenopathy on CT."
   },
   {
     "id": "padnd-106",
     "imageRef": "padnd-106_pa026_f02.png",
     "label": "Reed-Sternberg cell",
     "category": "Histology & Cell Biology",
-    "brick": "Pathogen-Associated Neoplasms"
+    "brick": "Pathogen-Associated Neoplasms",
+    "explanation": "The bilobed, owl-eye Reed-Sternberg cell with prominent eosinophilic nucleoli is the pathognomonic histologic finding of classic Hodgkin lymphoma, roughly half of which are EBV-associated."
   },
   {
     "id": "padnd-107",
     "imageRef": "padnd-107_pa026_f03.png",
     "label": "Burkitt lymphoma",
     "category": "Histology & Cell Biology",
-    "brick": "Pathogen-Associated Neoplasms"
+    "brick": "Pathogen-Associated Neoplasms",
+    "explanation": "The pale tingible body macrophages scattered among the dark neoplastic B-cells create the 'starry sky' appearance characteristic of Burkitt lymphoma."
   },
   {
     "id": "padnd-108",
     "imageRef": "padnd-108_pa026_f04.png",
     "label": "Jaw mass",
     "category": "Pathology",
-    "brick": "Pathogen-Associated Neoplasms"
+    "brick": "Pathogen-Associated Neoplasms",
+    "explanation": "Endemic Burkitt lymphoma is virtually always EBV-positive and classically presents in African children as a large, rapidly growing mandibular/jaw mass."
   },
   {
     "id": "padnd-109",
     "imageRef": "padnd-109_pa026_f05.png",
     "label": "Nasopharyngeal carcinoma",
     "category": "Histology & Cell Biology",
-    "brick": "Pathogen-Associated Neoplasms"
+    "brick": "Pathogen-Associated Neoplasms",
+    "explanation": "The EBV-associated non-keratinizing (undifferentiated) subtype of nasopharyngeal carcinoma shows undifferentiated epithelial cells with a dense lymphocytic infiltrate."
   },
   {
     "id": "padnd-110",
     "imageRef": "padnd-110_pa026_f08.png",
     "label": "Hepatocellular carcinoma",
     "category": "Pathology",
-    "brick": "Pathogen-Associated Neoplasms"
+    "brick": "Pathogen-Associated Neoplasms",
+    "explanation": "Hepatocellular carcinoma most often arises from longstanding inflammation-mediated cellular damage and cirrhosis; hepatitis B virus is the leading worldwide cause."
   },
   {
     "id": "padnd-111",
     "imageRef": "padnd-111_pa026_f10.png",
     "label": "Verruca vulgaris",
     "category": "Pathology",
-    "brick": "Pathogen-Associated Neoplasms"
+    "brick": "Pathogen-Associated Neoplasms",
+    "explanation": "Verruca vulgaris (common warts) are benign hyperkeratotic squamous papillomas caused by low-risk HPV serotypes 1, 2, 4, and 7."
   },
   {
     "id": "padnd-112",
     "imageRef": "padnd-112_pa026_f13.png",
     "label": "Flower cell",
     "category": "Histology & Cell Biology",
-    "brick": "Pathogen-Associated Neoplasms"
+    "brick": "Pathogen-Associated Neoplasms",
+    "explanation": "A multi-lobulated, flower-shaped nucleus is seen in the acute phase of adult T-cell leukemia/lymphoma associated with HTLV-1 infection."
   },
   {
     "id": "padnd-113",
     "imageRef": "padnd-113_pa026_f14.png",
     "label": "Gastric adenocarcinoma",
     "category": "Lab & Diagnostics",
-    "brick": "Pathogen-Associated Neoplasms"
+    "brick": "Pathogen-Associated Neoplasms",
+    "explanation": "Chronic H. pylori infection drives the stepwise cascade to gastric adenocarcinoma; endoscopic screening in high-incidence regions detects early, resectable lesions."
   },
   {
     "id": "padnd-114",
     "imageRef": "padnd-114_pa026_f15.png",
     "label": "Chronic gastritis",
     "category": "Histology & Cell Biology",
-    "brick": "Pathogen-Associated Neoplasms"
+    "brick": "Pathogen-Associated Neoplasms",
+    "explanation": "H. pylori induces chronic gastritis characterized by a mucosal infiltrate of lymphocytes and plasma cells, the first step in the cascade toward adenocarcinoma."
   },
   {
     "id": "padnd-115",
     "imageRef": "padnd-115_pa026_f16.png",
     "label": "Intestinal metaplasia",
     "category": "Histology & Cell Biology",
-    "brick": "Pathogen-Associated Neoplasms"
+    "brick": "Pathogen-Associated Neoplasms",
+    "explanation": "Intestinal metaplasia (goblet and Paneth cells replacing gastric epithelium) is a premalignant step in the H. pylori-driven progression toward gastric adenocarcinoma."
   },
   {
     "id": "padnd-116",
     "imageRef": "padnd-116_pa026_f17.png",
     "label": "Gastric adenocarcinoma",
     "category": "Histology & Cell Biology",
-    "brick": "Pathogen-Associated Neoplasms"
+    "brick": "Pathogen-Associated Neoplasms",
+    "explanation": "High-grade dysplasia becomes invasive gastric adenocarcinoma when the neoplastic cells invade through the basement membrane into surrounding tissues."
   },
   {
     "id": "padnd-117",
     "imageRef": "padnd-117_pa026_f18.png",
     "label": "MALT lymphoma",
     "category": "Histology & Cell Biology",
-    "brick": "Pathogen-Associated Neoplasms"
+    "brick": "Pathogen-Associated Neoplasms",
+    "explanation": "Extranodal marginal zone (MALT) lymphoma of the stomach is associated with H. pylori and shows an increased population of small neoplastic B-cells; many cases regress after eradication."
   },
   {
     "id": "padnd-118",
     "imageRef": "padnd-118_pa026_f19.png",
     "label": "Schistosoma eggs",
     "category": "Pathology",
-    "brick": "Pathogen-Associated Neoplasms"
+    "brick": "Pathogen-Associated Neoplasms",
+    "explanation": "Schistosoma haematobium eggs (terminal spine) cause chronic bladder inflammation and metaplasia, predisposing to squamous cell carcinoma of the bladder."
   },
   {
     "id": "padnd-119",
     "imageRef": "padnd-119_pa028_f03.png",
     "label": "ChemoMan",
     "category": "Pharmacology",
-    "brick": "Cancer Medications Overview"
+    "brick": "Cancer Medications Overview",
+    "explanation": "Cyclophosphamide generates acrolein, which injures the bladder urothelium and causes hemorrhagic cystitis. Mesna binds and detoxifies acrolein in the urine. Leucovorin rescues methotrexate toxicity, amifostine protects against cisplatin nephro/ototoxicity, and dexrazoxane guards against anthracycline cardiotoxicity."
   },
   {
     "id": "padnd-120",
     "imageRef": "padnd-120_pa029_f01.png",
     "label": "Cell injury",
     "category": "Physiology & Mechanisms",
-    "brick": "Cell Death: Apoptosis and Necrosis"
+    "brick": "Cell Death: Apoptosis and Necrosis",
+    "explanation": "The diagram shows a continuum: mild, short-lived injury permits adaptation or reversible injury, whereas severe, prolonged injury exceeds the cell's capacity to recover and drives it to death by necrosis or apoptosis. Thus the intensity and duration of the stimulus is the key determinant."
   },
   {
     "id": "padnd-121",
     "imageRef": "padnd-121_pa029_f02.png",
     "label": "Cell injury mechanisms",
     "category": "Physiology & Mechanisms",
-    "brick": "Cell Death: Apoptosis and Necrosis"
+    "brick": "Cell Death: Apoptosis and Necrosis",
+    "explanation": "ATP is required to run the Na+/K+ ATPase; when ATP falls, the pump fails, sodium and water accumulate intracellularly, and the cell swells. The other mechanisms shown (calcium influx, ROS, membrane damage, DNA damage) act through separate routes."
   },
   {
     "id": "padnd-122",
     "imageRef": "padnd-122_pa029_f03.png",
     "label": "BCL2",
     "category": "Pathology",
-    "brick": "Cell Death: Apoptosis and Necrosis"
+    "brick": "Cell Death: Apoptosis and Necrosis",
+    "explanation": "BCL2 keeps the outer mitochondrial membrane impermeable, blocking cytochrome c release and preventing apoptosis. The t(14;18) translocation places BCL2 under an immunoglobulin promoter, causing overexpression that resists apoptosis and produces follicular lymphoma."
   },
   {
     "id": "padnd-123",
     "imageRef": "padnd-123_pa029_f07.png",
     "label": "Apoptotic cell",
     "category": "Histology & Cell Biology",
-    "brick": "Cell Death: Apoptosis and Necrosis"
+    "brick": "Cell Death: Apoptosis and Necrosis",
+    "explanation": "Apoptotic cells shrink, become densely eosinophilic, and show condensed nuclei; because apoptosis is controlled and cells are cleared by phagocytes, there is little or no inflammation. Necrosis, by contrast, spills cell contents and provokes a prominent inflammatory response."
   },
   {
     "id": "padnd-124",
     "imageRef": "padnd-124_pa029_f08.png",
     "label": "Coagulative necrosis",
     "category": "Pathology",
-    "brick": "Cell Death: Apoptosis and Necrosis"
+    "brick": "Cell Death: Apoptosis and Necrosis",
+    "explanation": "Coagulative necrosis preserves the tissue architecture (ghost outlines) while cells die, and is the hallmark of ischemic infarction in solid organs other than the brain. The wedge-shaped pale infarct and retained cell outlines are classic."
   },
   {
     "id": "padnd-125",
     "imageRef": "padnd-125_pa029_f09.png",
     "label": "Liquefactive necrosis",
     "category": "Pathology",
-    "brick": "Cell Death: Apoptosis and Necrosis"
+    "brick": "Cell Death: Apoptosis and Necrosis",
+    "explanation": "Liquefactive necrosis results when hydrolytic enzymes digest dead tissue into a viscous liquid. It is the characteristic pattern of central nervous system infarcts and of abscesses. Protein denaturation instead yields coagulative necrosis."
   },
   {
     "id": "padnd-126",
     "imageRef": "padnd-126_pa029_f10.png",
     "label": "Gangrenous necrosis",
     "category": "Pathology",
-    "brick": "Cell Death: Apoptosis and Necrosis"
+    "brick": "Cell Death: Apoptosis and Necrosis",
+    "explanation": "Gangrenous necrosis is a clinical term for necrosis of a limb or digits, typically from loss of blood supply. Dry gangrene is largely coagulative; wet gangrene adds superimposed liquefactive necrosis from bacterial infection."
   },
   {
     "id": "padnd-127",
     "imageRef": "padnd-127_pa029_f11.png",
     "label": "Caseous necrosis",
     "category": "Pathology",
-    "brick": "Cell Death: Apoptosis and Necrosis"
+    "brick": "Cell Death: Apoptosis and Necrosis",
+    "explanation": "Caseous necrosis has a friable, cheese-like gross appearance and is classically caused by tuberculosis. Microscopically it shows granulomas with fragmented, granular debris, distinguishing it from other necrosis patterns."
   },
   {
     "id": "padnd-128",
     "imageRef": "padnd-128_pa029_f12.png",
     "label": "Fat necrosis",
     "category": "Pathology",
-    "brick": "Cell Death: Apoptosis and Necrosis"
+    "brick": "Cell Death: Apoptosis and Necrosis",
+    "explanation": "In fat necrosis, released lipases (e.g., in acute pancreatitis) break down adipose tissue; the liberated free fatty acids combine with calcium in a saponification reaction to form the chalky-white deposits seen here."
   },
   {
     "id": "padnd-129",
     "imageRef": "padnd-129_pa029_f13.png",
     "label": "Fibrinoid necrosis",
     "category": "Pathology",
-    "brick": "Cell Death: Apoptosis and Necrosis"
+    "brick": "Cell Death: Apoptosis and Necrosis",
+    "explanation": "Fibrinoid necrosis occurs when immune complexes and plasma proteins (fibrin) deposit in vessel walls, producing a bright pink, smudgy appearance with inflammation. It is characteristic of autoimmune small-vessel vasculitides."
   },
   {
     "id": "padnd-130",
     "imageRef": "padnd-130_pa030_f01.png",
     "label": "Punch biopsy",
     "category": "Lab & Diagnostics",
-    "brick": "Introduction to Anatomic Pathology"
+    "brick": "Introduction to Anatomic Pathology",
+    "explanation": "A punch biopsy uses a cylindrical blade rotated into the skin to remove a full-thickness core of tissue for histologic evaluation."
   },
   {
     "id": "padnd-131",
     "imageRef": "padnd-131_pa030_f02.png",
     "label": "Excisional biopsy",
     "category": "Lab & Diagnostics",
-    "brick": "Introduction to Anatomic Pathology"
+    "brick": "Introduction to Anatomic Pathology",
+    "explanation": "An excisional biopsy removes the entire lesion plus a surrounding safety margin of normal-appearing skin, making it both diagnostic and potentially curative."
   },
   {
     "id": "padnd-132",
     "imageRef": "padnd-132_pa030_f05.png",
     "label": "FFPE blocks",
     "category": "Lab & Diagnostics",
-    "brick": "Introduction to Anatomic Pathology"
+    "brick": "Introduction to Anatomic Pathology",
+    "explanation": "Surgical specimens are typically processed as formalin-fixed paraffin-embedded (FFPE) blocks; formalin cross-links proteins to preserve tissue morphology for at least 10 years."
   },
   {
     "id": "padnd-133",
     "imageRef": "padnd-133_pa030_f06.png",
     "label": "H&E stain",
     "category": "Histology & Cell Biology",
-    "brick": "Introduction to Anatomic Pathology"
+    "brick": "Introduction to Anatomic Pathology",
+    "explanation": "In H&E staining, eosin stains cytoplasmic and extracellular components pink while hematoxylin stains nuclei blue-purple."
   },
   {
     "id": "padnd-134",
     "imageRef": "padnd-134_pa030_f07.png",
     "label": "GMS stain",
     "category": "Lab & Diagnostics",
-    "brick": "Introduction to Anatomic Pathology"
+    "brick": "Introduction to Anatomic Pathology",
+    "explanation": "The Grocott-Gomori methenamine silver (GMS) stain deposits silver on fungal cell walls, making fungal hyphae and yeast readily visible."
   },
   {
     "id": "padnd-135",
     "imageRef": "padnd-135_pa030_f08.png",
     "label": "Immunohistochemistry",
     "category": "Lab & Diagnostics",
-    "brick": "Introduction to Anatomic Pathology"
+    "brick": "Introduction to Anatomic Pathology",
+    "explanation": "Immunohistochemistry uses antibodies against a specific antigen, and a chromogen produces brown color where the antigen is present. Cytokeratin positivity here helps identify the neoplasm as a carcinoma."
   },
   {
     "id": "padnd-136",
     "imageRef": "padnd-136_pa030_f09.png",
     "label": "Papillary thyroid carcinoma",
     "category": "Pathology",
-    "brick": "Introduction to Anatomic Pathology"
+    "brick": "Introduction to Anatomic Pathology",
+    "explanation": "Papillary thyroid carcinoma is characterized by nuclear enlargement, nuclear overlap, and optically clear (Orphan Annie eye) nuclei with grooves."
   },
   {
     "id": "padnd-137",
     "imageRef": "padnd-137_pa030_f10.png",
     "label": "Pap smear",
     "category": "Lab & Diagnostics",
-    "brick": "Introduction to Anatomic Pathology"
+    "brick": "Introduction to Anatomic Pathology",
+    "explanation": "A high nuclear-to-cytoplasmic ratio, nuclear enlargement, and irregular nuclear membranes are worrisome cytologic features, contrasting with the abundant cytoplasm of the normal intermediate squamous cell."
   },
   {
     "id": "padnd-138",
     "imageRef": "padnd-138_pa031_f03.png",
     "label": "Pneumonia",
     "category": "Lab & Diagnostics",
-    "brick": "Acute Inflammation"
+    "brick": "Acute Inflammation",
+    "explanation": "The opaque areas correspond to alveolar spaces filled with purulent exudate, a pattern consistent with bacterial pneumonia."
   },
   {
     "id": "padnd-139",
     "imageRef": "padnd-139_pa031_f04.png",
     "label": "Serous inflammation",
     "category": "Pathology",
-    "brick": "Acute Inflammation"
+    "brick": "Acute Inflammation",
+    "explanation": "A blister formed by accumulation of protein-poor, cell-poor (transudate-like) fluid separating the epidermis represents serous inflammation."
   },
   {
     "id": "padnd-140",
     "imageRef": "padnd-140_pa031_f05.png",
     "label": "Fibrinous pericarditis",
     "category": "Pathology",
-    "brick": "Acute Inflammation"
+    "brick": "Acute Inflammation",
+    "explanation": "Increased vascular permeability allows fibrinogen to leak and deposit as fibrin on the pericardial surface, producing a fibrinous exudate (fibrinous pericarditis)."
   },
   {
     "id": "padnd-141",
     "imageRef": "padnd-141_pa031_f06.png",
     "label": "Duodenal ulcer",
     "category": "Pathology",
-    "brick": "Acute Inflammation"
+    "brick": "Acute Inflammation",
+    "explanation": "An ulcer is a local defect of an epithelial surface produced by sloughing of inflamed necrotic tissue, here a chronic duodenal ulcer."
   },
   {
     "id": "padnd-142",
     "imageRef": "padnd-142_pa032_f02.png",
     "label": "Lymphocyte",
     "category": "Histology & Cell Biology",
-    "brick": "Chronic Inflammation"
+    "brick": "Chronic Inflammation",
+    "explanation": "A small cell dominated by a round nucleus with scant cytoplasm is a lymphocyte. Neutrophils have multilobed nuclei, eosinophils have bilobed nuclei with red granules, monocytes are larger with reniform nuclei, and basophils contain dark blue granules."
   },
   {
     "id": "padnd-143",
     "imageRef": "padnd-143_pa032_f04.png",
     "label": "Tuberculous granuloma",
     "category": "Pathology",
-    "brick": "Chronic Inflammation"
+    "brick": "Chronic Inflammation",
+    "explanation": "Caseating (necrotizing) granulomas in the lung are the hallmark of Mycobacterium tuberculosis infection. The listed pyogenic bacteria produce acute suppurative inflammation with abscesses rather than organized granulomas with central caseous necrosis."
   },
   {
     "id": "padnd-144",
     "imageRef": "padnd-144_pa032_f06.png",
     "label": "Non-necrotizing granuloma",
     "category": "Pathology",
-    "brick": "Chronic Inflammation"
+    "brick": "Chronic Inflammation",
+    "explanation": "Compact, non-caseating granulomas that lack central necrosis are classic for sarcoidosis. Tuberculosis and histoplasmosis usually caseate, cat-scratch disease shows suppurative granulomas, and while Crohn's granulomas are non-caseating they occur in the gut, not the lung."
   },
   {
     "id": "padnd-145",
     "imageRef": "padnd-145_pa032_f07.png",
     "label": "Sarcoid granuloma",
     "category": "Pathology",
-    "brick": "Chronic Inflammation"
+    "brick": "Chronic Inflammation",
+    "explanation": "Sarcoid granulomas are non-caseating, so they lack the central caseous necrosis typical of tuberculosis. They still contain multinucleated giant cells, epithelioid macrophages, lymphocytes, and a surrounding fibrous rim, so those are present rather than absent."
   },
   {
     "id": "padnd-146",
     "imageRef": "padnd-146_pa033_f01.png",
     "label": "Extracellular matrix",
     "category": "Histology & Cell Biology",
-    "brick": "Wound Healing and Tissue Repair"
+    "brick": "Wound Healing and Tissue Repair",
+    "explanation": "The layer shown between epithelium and interstitium is the basement membrane, a specialized extracellular matrix rich in type IV collagen and laminin that provides an anchoring, supporting surface for the growth of epithelial, endothelial, and smooth muscle cells."
   },
   {
     "id": "padnd-147",
     "imageRef": "padnd-147_pa033_f03.png",
     "label": "Second intention",
     "category": "Pathology",
-    "brick": "Wound Healing and Tissue Repair"
+    "brick": "Wound Healing and Tissue Repair",
+    "explanation": "Healing by secondary intention occurs with extensive tissue loss: the large defect fills with granulation tissue, and myofibroblasts form a contractile network that pulls the wound together, reducing the defect over weeks."
   },
   {
     "id": "padnd-148",
     "imageRef": "padnd-148_pa033_f04.png",
     "label": "Keloid scar",
     "category": "Pathology",
-    "brick": "Wound Healing and Tissue Repair"
+    "brick": "Wound Healing and Tissue Repair",
+    "explanation": "A keloid is exuberant scarring that extends beyond the boundaries of the original wound and shows thick, brightly eosinophilic collagen arranged haphazardly; unlike hypertrophic scars, which stay within the original wound and may regress, keloids do not regress on their own."
   },
   {
     "id": "padnd-149",
     "imageRef": "padnd-149_pa033_f05.png",
     "label": "Chronic wounds",
     "category": "Pathology",
-    "brick": "Wound Healing and Tissue Repair"
+    "brick": "Wound Healing and Tissue Repair",
+    "explanation": "An ulcer is a wound lacking an intact epithelial surface; histologically it correlates with loss of the overlying epithelium plus surface necrotic debris, inflammation, and underlying granulation tissue, as seen in these venous, arterial, diabetic, and pressure-related chronic wounds."
   }
 ]
