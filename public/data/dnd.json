@@ -1,0 +1,1045 @@
+[
+  {
+    "id": "padnd-001",
+    "imageRef": "padnd-001_pa002_f03.png",
+    "label": "Y-incision",
+    "category": "Pathology",
+    "brick": "Autopsy"
+  },
+  {
+    "id": "padnd-002",
+    "imageRef": "padnd-002_pa002_f04.png",
+    "label": "Heart",
+    "category": "Gross Anatomy",
+    "brick": "Autopsy"
+  },
+  {
+    "id": "padnd-003",
+    "imageRef": "padnd-003_pa002_f05.png",
+    "label": "Cirrhotic liver",
+    "category": "Pathology",
+    "brick": "Autopsy"
+  },
+  {
+    "id": "padnd-004",
+    "imageRef": "padnd-004_pa003_f03.png",
+    "label": "Exudate vs transudate",
+    "category": "Pathology",
+    "brick": "Hemodynamics and Shock"
+  },
+  {
+    "id": "padnd-005",
+    "imageRef": "padnd-005_pa004_f02.png",
+    "label": "Coronary thrombosis",
+    "category": "Pathology",
+    "brick": "Thrombosis and Its Consequences"
+  },
+  {
+    "id": "padnd-006",
+    "imageRef": "padnd-006_pa004_f04.png",
+    "label": "Recanalization",
+    "category": "Histology & Cell Biology",
+    "brick": "Thrombosis and Its Consequences"
+  },
+  {
+    "id": "padnd-007",
+    "imageRef": "padnd-007_pa004_f05.png",
+    "label": "Pulmonary embolism",
+    "category": "Pathology",
+    "brick": "Thrombosis and Its Consequences"
+  },
+  {
+    "id": "padnd-008",
+    "imageRef": "padnd-008_pa004_f06.png",
+    "label": "Infarcts",
+    "category": "Pathology",
+    "brick": "Thrombosis and Its Consequences"
+  },
+  {
+    "id": "padnd-009",
+    "imageRef": "padnd-009_pa005_f02.png",
+    "label": "Transfusion medicine",
+    "category": "Lab & Diagnostics",
+    "brick": "Introduction to Clinical Pathology"
+  },
+  {
+    "id": "padnd-010",
+    "imageRef": "padnd-010_pa005_f03.png",
+    "label": "Clinical chemistry",
+    "category": "Lab & Diagnostics",
+    "brick": "Introduction to Clinical Pathology"
+  },
+  {
+    "id": "padnd-011",
+    "imageRef": "padnd-011_pa005_f05.png",
+    "label": "Microbiology",
+    "category": "Lab & Diagnostics",
+    "brick": "Introduction to Clinical Pathology"
+  },
+  {
+    "id": "padnd-012",
+    "imageRef": "padnd-012_pa005_f06.png",
+    "label": "Disk diffusion test",
+    "category": "Lab & Diagnostics",
+    "brick": "Introduction to Clinical Pathology"
+  },
+  {
+    "id": "padnd-013",
+    "imageRef": "padnd-013_pa005_f07.png",
+    "label": "Urinalysis",
+    "category": "Lab & Diagnostics",
+    "brick": "Introduction to Clinical Pathology"
+  },
+  {
+    "id": "padnd-014",
+    "imageRef": "padnd-014_pa006_f01.png",
+    "label": "Pseudomembranous colitis",
+    "category": "Pathology",
+    "brick": "Introduction to Infection"
+  },
+  {
+    "id": "padnd-015",
+    "imageRef": "padnd-015_pa006_f02.png",
+    "label": "Infective endocarditis",
+    "category": "Pathology",
+    "brick": "Introduction to Infection"
+  },
+  {
+    "id": "padnd-016",
+    "imageRef": "padnd-016_pa007_f01.png",
+    "label": "Malar rash",
+    "category": "Pathology",
+    "brick": "Autoimmune Disease"
+  },
+  {
+    "id": "padnd-017",
+    "imageRef": "padnd-017_pa007_f08.png",
+    "label": "Granulomatosis with polyangiitis",
+    "category": "Pathology",
+    "brick": "Autoimmune Disease"
+  },
+  {
+    "id": "padnd-018",
+    "imageRef": "padnd-018_pa007_f11.png",
+    "label": "Crescentic glomerulonephritis",
+    "category": "Pathology",
+    "brick": "Autoimmune Disease"
+  },
+  {
+    "id": "padnd-019",
+    "imageRef": "padnd-019_pa008_f02.png",
+    "label": "Rheumatic heart disease",
+    "category": "Pathology",
+    "brick": "Immune-Mediated Damage and Granulomatous Diseases"
+  },
+  {
+    "id": "padnd-020",
+    "imageRef": "padnd-020_pa008_f03.png",
+    "label": "Erythema marginatum",
+    "category": "Pathology",
+    "brick": "Immune-Mediated Damage and Granulomatous Diseases"
+  },
+  {
+    "id": "padnd-021",
+    "imageRef": "padnd-021_pa008_f06.png",
+    "label": "Poststreptococcal GN",
+    "category": "Pathology",
+    "brick": "Immune-Mediated Damage and Granulomatous Diseases"
+  },
+  {
+    "id": "padnd-022",
+    "imageRef": "padnd-022_pa008_f07.png",
+    "label": "Chlamydial inclusions",
+    "category": "Lab & Diagnostics",
+    "brick": "Immune-Mediated Damage and Granulomatous Diseases"
+  },
+  {
+    "id": "padnd-023",
+    "imageRef": "padnd-023_pa008_f08.png",
+    "label": "Neonatal conjunctivitis",
+    "category": "Pathology",
+    "brick": "Immune-Mediated Damage and Granulomatous Diseases"
+  },
+  {
+    "id": "padnd-024",
+    "imageRef": "padnd-024_pa008_f09.png",
+    "label": "Neisseria gonorrhoeae",
+    "category": "Lab & Diagnostics",
+    "brick": "Immune-Mediated Damage and Granulomatous Diseases"
+  },
+  {
+    "id": "padnd-025",
+    "imageRef": "padnd-025_pa008_f13.png",
+    "label": "Caseating granuloma",
+    "category": "Pathology",
+    "brick": "Immune-Mediated Damage and Granulomatous Diseases"
+  },
+  {
+    "id": "padnd-026",
+    "imageRef": "padnd-026_pa008_f14.png",
+    "label": "Granulomatosis with polyangiitis",
+    "category": "Pathology",
+    "brick": "Immune-Mediated Damage and Granulomatous Diseases"
+  },
+  {
+    "id": "padnd-027",
+    "imageRef": "padnd-027_pa008_f15.png",
+    "label": "Crescentic glomerulonephritis",
+    "category": "Pathology",
+    "brick": "Immune-Mediated Damage and Granulomatous Diseases"
+  },
+  {
+    "id": "padnd-028",
+    "imageRef": "padnd-028_pa008_f16.png",
+    "label": "Foreign body granuloma",
+    "category": "Pathology",
+    "brick": "Immune-Mediated Damage and Granulomatous Diseases"
+  },
+  {
+    "id": "padnd-029",
+    "imageRef": "padnd-029_pa008_f17.png",
+    "label": "Talc granuloma",
+    "category": "Pathology",
+    "brick": "Immune-Mediated Damage and Granulomatous Diseases"
+  },
+  {
+    "id": "padnd-030",
+    "imageRef": "padnd-030_pa008_f18.png",
+    "label": "Sarcoid granuloma",
+    "category": "Pathology",
+    "brick": "Immune-Mediated Damage and Granulomatous Diseases"
+  },
+  {
+    "id": "padnd-031",
+    "imageRef": "padnd-031_pa008_f19.png",
+    "label": "Hilar lymphadenopathy",
+    "category": "Lab & Diagnostics",
+    "brick": "Immune-Mediated Damage and Granulomatous Diseases"
+  },
+  {
+    "id": "padnd-032",
+    "imageRef": "padnd-032_pa008_f20.png",
+    "label": "Erythema nodosum",
+    "category": "Pathology",
+    "brick": "Immune-Mediated Damage and Granulomatous Diseases"
+  },
+  {
+    "id": "padnd-033",
+    "imageRef": "padnd-033_pa009_f01.png",
+    "label": "Pseudomembranous colitis",
+    "category": "Pathology",
+    "brick": "Introduction to Infection"
+  },
+  {
+    "id": "padnd-034",
+    "imageRef": "padnd-034_pa009_f02.png",
+    "label": "Infective endocarditis",
+    "category": "Pathology",
+    "brick": "Introduction to Infection"
+  },
+  {
+    "id": "padnd-035",
+    "imageRef": "padnd-035_pa009_f05.png",
+    "label": "Diphtheria pseudomembrane",
+    "category": "Pathology",
+    "brick": "Introduction to Infection"
+  },
+  {
+    "id": "padnd-036",
+    "imageRef": "padnd-036_pa010_f04.png",
+    "label": "Epitope",
+    "category": "Physiology & Mechanisms",
+    "brick": "Infections, Immunity, and Evading Host Defense"
+  },
+  {
+    "id": "padnd-037",
+    "imageRef": "padnd-037_pa010_f05.png",
+    "label": "Bacterial adhesion",
+    "category": "Physiology & Mechanisms",
+    "brick": "Infections, Immunity, and Evading Host Defense"
+  },
+  {
+    "id": "padnd-038",
+    "imageRef": "padnd-038_pa010_f06.png",
+    "label": "Macrophage activation",
+    "category": "Physiology & Mechanisms",
+    "brick": "Infections, Immunity, and Evading Host Defense"
+  },
+  {
+    "id": "padnd-039",
+    "imageRef": "padnd-039_pa010_f07.png",
+    "label": "Actin comet tail",
+    "category": "Physiology & Mechanisms",
+    "brick": "Infections, Immunity, and Evading Host Defense"
+  },
+  {
+    "id": "padnd-040",
+    "imageRef": "padnd-040_pa010_f08.png",
+    "label": "Interferon",
+    "category": "Physiology & Mechanisms",
+    "brick": "Infections, Immunity, and Evading Host Defense"
+  },
+  {
+    "id": "padnd-041",
+    "imageRef": "padnd-041_pa010_f09.png",
+    "label": "Antigenic variation",
+    "category": "Physiology & Mechanisms",
+    "brick": "Infections, Immunity, and Evading Host Defense"
+  },
+  {
+    "id": "padnd-042",
+    "imageRef": "padnd-042_pa010_f10.png",
+    "label": "Herpes labialis",
+    "category": "Pathology",
+    "brick": "Infections, Immunity, and Evading Host Defense"
+  },
+  {
+    "id": "padnd-043",
+    "imageRef": "padnd-043_pa011_f01.png",
+    "label": "Mycobacterium tuberculosis",
+    "category": "Histology & Cell Biology",
+    "brick": "Chronic Infections"
+  },
+  {
+    "id": "padnd-044",
+    "imageRef": "padnd-044_pa011_f05.png",
+    "label": "Hilar lymphadenopathy",
+    "category": "Lab & Diagnostics",
+    "brick": "Chronic Infections"
+  },
+  {
+    "id": "padnd-045",
+    "imageRef": "padnd-045_pa011_f06.png",
+    "label": "Cavitary tuberculosis",
+    "category": "Pathology",
+    "brick": "Chronic Infections"
+  },
+  {
+    "id": "padnd-046",
+    "imageRef": "padnd-046_pa011_f07.png",
+    "label": "Miliary tuberculosis",
+    "category": "Pathology",
+    "brick": "Chronic Infections"
+  },
+  {
+    "id": "padnd-047",
+    "imageRef": "padnd-047_pa011_f10.png",
+    "label": "Treponema pallidum",
+    "category": "Histology & Cell Biology",
+    "brick": "Chronic Infections"
+  },
+  {
+    "id": "padnd-048",
+    "imageRef": "padnd-048_pa011_f11.png",
+    "label": "Chancre",
+    "category": "Pathology",
+    "brick": "Chronic Infections"
+  },
+  {
+    "id": "padnd-049",
+    "imageRef": "padnd-049_pa011_f19.png",
+    "label": "Tabes dorsalis",
+    "category": "Pathology",
+    "brick": "Chronic Infections"
+  },
+  {
+    "id": "padnd-050",
+    "imageRef": "padnd-050_pa011_f21.png",
+    "label": "Congenital syphilis",
+    "category": "Pathology",
+    "brick": "Chronic Infections"
+  },
+  {
+    "id": "padnd-051",
+    "imageRef": "padnd-051_pa011_f22.png",
+    "label": "Hutchinson teeth",
+    "category": "Pathology",
+    "brick": "Chronic Infections"
+  },
+  {
+    "id": "padnd-052",
+    "imageRef": "padnd-052_pa012_f01.png",
+    "label": "Ixodes tick",
+    "category": "Lab & Diagnostics",
+    "brick": "Chronic Infections"
+  },
+  {
+    "id": "padnd-053",
+    "imageRef": "padnd-053_pa012_f02.png",
+    "label": "Erythema migrans",
+    "category": "Pathology",
+    "brick": "Chronic Infections"
+  },
+  {
+    "id": "padnd-054",
+    "imageRef": "padnd-054_pa012_f03.png",
+    "label": "Oral candidiasis",
+    "category": "Pathology",
+    "brick": "Chronic Infections"
+  },
+  {
+    "id": "padnd-055",
+    "imageRef": "padnd-055_pa012_f04.png",
+    "label": "HIV progression",
+    "category": "Physiology & Mechanisms",
+    "brick": "Chronic Infections"
+  },
+  {
+    "id": "padnd-056",
+    "imageRef": "padnd-056_pa012_f06.png",
+    "label": "HSV ulceration",
+    "category": "Pathology",
+    "brick": "Chronic Infections"
+  },
+  {
+    "id": "padnd-057",
+    "imageRef": "padnd-057_pa012_f07.png",
+    "label": "Pneumocystis jirovecii",
+    "category": "Histology & Cell Biology",
+    "brick": "Chronic Infections"
+  },
+  {
+    "id": "padnd-058",
+    "imageRef": "padnd-058_pa012_f09.png",
+    "label": "Kaposi sarcoma",
+    "category": "Histology & Cell Biology",
+    "brick": "Chronic Infections"
+  },
+  {
+    "id": "padnd-059",
+    "imageRef": "padnd-059_pa012_f10.png",
+    "label": "Effusion lymphoma",
+    "category": "Histology & Cell Biology",
+    "brick": "Chronic Infections"
+  },
+  {
+    "id": "padnd-060",
+    "imageRef": "padnd-060_pa013_f01.png",
+    "label": "HLA complex",
+    "category": "Histology & Cell Biology",
+    "brick": "Transplantation"
+  },
+  {
+    "id": "padnd-061",
+    "imageRef": "padnd-061_pa013_f02.png",
+    "label": "Fatty liver",
+    "category": "Pathology",
+    "brick": "Transplantation"
+  },
+  {
+    "id": "padnd-062",
+    "imageRef": "padnd-062_pa013_f03.png",
+    "label": "Macrovesicular steatosis",
+    "category": "Pathology",
+    "brick": "Transplantation"
+  },
+  {
+    "id": "padnd-063",
+    "imageRef": "padnd-063_pa013_f05.png",
+    "label": "Bridging fibrosis",
+    "category": "Pathology",
+    "brick": "Transplantation"
+  },
+  {
+    "id": "padnd-064",
+    "imageRef": "padnd-064_pa013_f06.png",
+    "label": "Hepatocyte necrosis",
+    "category": "Pathology",
+    "brick": "Transplantation"
+  },
+  {
+    "id": "padnd-065",
+    "imageRef": "padnd-065_pa013_f07.png",
+    "label": "Interstitial fibrosis",
+    "category": "Pathology",
+    "brick": "Transplantation"
+  },
+  {
+    "id": "padnd-066",
+    "imageRef": "padnd-066_pa013_f08.png",
+    "label": "Arterial sclerosis",
+    "category": "Pathology",
+    "brick": "Transplantation"
+  },
+  {
+    "id": "padnd-067",
+    "imageRef": "padnd-067_pa013_f09.png",
+    "label": "Arteriolar hyalinization",
+    "category": "Pathology",
+    "brick": "Transplantation"
+  },
+  {
+    "id": "padnd-068",
+    "imageRef": "padnd-068_pa013_f10.png",
+    "label": "Glomerulosclerosis",
+    "category": "Pathology",
+    "brick": "Transplantation"
+  },
+  {
+    "id": "padnd-069",
+    "imageRef": "padnd-069_pa014_f01.png",
+    "label": "Hyperacute rejection",
+    "category": "Pathology",
+    "brick": "Transplant Rejection"
+  },
+  {
+    "id": "padnd-070",
+    "imageRef": "padnd-070_pa016_f03.png",
+    "label": "Florid duct lesion",
+    "category": "Pathology",
+    "brick": "Infectious and Inflammatory Jaundice"
+  },
+  {
+    "id": "padnd-071",
+    "imageRef": "padnd-071_pa016_f04.png",
+    "label": "Primary sclerosing cholangitis",
+    "category": "Pathology",
+    "brick": "Infectious and Inflammatory Jaundice"
+  },
+  {
+    "id": "padnd-072",
+    "imageRef": "padnd-072_pa016_f05.png",
+    "label": "Biliary beading",
+    "category": "Lab & Diagnostics",
+    "brick": "Infectious and Inflammatory Jaundice"
+  },
+  {
+    "id": "padnd-073",
+    "imageRef": "padnd-073_pa016_f06.png",
+    "label": "Chronic viral hepatitis",
+    "category": "Histology & Cell Biology",
+    "brick": "Infectious and Inflammatory Jaundice"
+  },
+  {
+    "id": "padnd-074",
+    "imageRef": "padnd-074_pa016_f07.png",
+    "label": "Bridging fibrosis",
+    "category": "Histology & Cell Biology",
+    "brick": "Infectious and Inflammatory Jaundice"
+  },
+  {
+    "id": "padnd-075",
+    "imageRef": "padnd-075_pa017_f04.png",
+    "label": "Chondrosarcoma",
+    "category": "Pathology",
+    "brick": "Introduction to Neoplasia"
+  },
+  {
+    "id": "padnd-076",
+    "imageRef": "padnd-076_pa017_f05.png",
+    "label": "Cellular adaptations",
+    "category": "Physiology & Mechanisms",
+    "brick": "Introduction to Neoplasia"
+  },
+  {
+    "id": "padnd-077",
+    "imageRef": "padnd-077_pa017_f06.png",
+    "label": "Barrett esophagus",
+    "category": "Pathology",
+    "brick": "Introduction to Neoplasia"
+  },
+  {
+    "id": "padnd-078",
+    "imageRef": "padnd-078_pa018_f02.png",
+    "label": "Invasive lobular carcinoma",
+    "category": "Pathology",
+    "brick": "Cancer Growth and Metastasis"
+  },
+  {
+    "id": "padnd-079",
+    "imageRef": "padnd-079_pa018_f04.png",
+    "label": "Vascular invasion",
+    "category": "Pathology",
+    "brick": "Cancer Growth and Metastasis"
+  },
+  {
+    "id": "padnd-080",
+    "imageRef": "padnd-080_pa018_f05.png",
+    "label": "Omental metastasis",
+    "category": "Pathology",
+    "brick": "Cancer Growth and Metastasis"
+  },
+  {
+    "id": "padnd-081",
+    "imageRef": "padnd-081_pa019_f05.png",
+    "label": "Pancreatic ductal adenocarcinoma",
+    "category": "Pathology",
+    "brick": "Molecular Basis of Neoplasia"
+  },
+  {
+    "id": "padnd-082",
+    "imageRef": "padnd-082_pa019_f07.png",
+    "label": "Melanoma",
+    "category": "Pathology",
+    "brick": "Molecular Basis of Neoplasia"
+  },
+  {
+    "id": "padnd-083",
+    "imageRef": "padnd-083_pa019_f09.png",
+    "label": "Chronic myeloid leukemia",
+    "category": "Pathology",
+    "brick": "Molecular Basis of Neoplasia"
+  },
+  {
+    "id": "padnd-084",
+    "imageRef": "padnd-084_pa020_f02.png",
+    "label": "Rosettes",
+    "category": "Histology & Cell Biology",
+    "brick": "Molecular Basis of Neoplasia"
+  },
+  {
+    "id": "padnd-085",
+    "imageRef": "padnd-085_pa020_f08.png",
+    "label": "Neurofibromatosis 1",
+    "category": "Pathology",
+    "brick": "Molecular Basis of Neoplasia"
+  },
+  {
+    "id": "padnd-086",
+    "imageRef": "padnd-086_pa020_f09.png",
+    "label": "Hallmarks of cancer",
+    "category": "Pathology",
+    "brick": "Molecular Basis of Neoplasia"
+  },
+  {
+    "id": "padnd-087",
+    "imageRef": "padnd-087_pa021_f01.png",
+    "label": "Mitotic figures",
+    "category": "Histology & Cell Biology",
+    "brick": "Introduction to Pathology, Cell Injury, and Adaptation"
+  },
+  {
+    "id": "padnd-088",
+    "imageRef": "padnd-088_pa021_f03.png",
+    "label": "Cellular swelling",
+    "category": "Histology & Cell Biology",
+    "brick": "Introduction to Pathology, Cell Injury, and Adaptation"
+  },
+  {
+    "id": "padnd-089",
+    "imageRef": "padnd-089_pa021_f06.png",
+    "label": "Mitochondria",
+    "category": "Physiology & Mechanisms",
+    "brick": "Introduction to Pathology, Cell Injury, and Adaptation"
+  },
+  {
+    "id": "padnd-090",
+    "imageRef": "padnd-090_pa021_f08.png",
+    "label": "Karyolysis",
+    "category": "Pathology",
+    "brick": "Introduction to Pathology, Cell Injury, and Adaptation"
+  },
+  {
+    "id": "padnd-091",
+    "imageRef": "padnd-091_pa021_f16.png",
+    "label": "Bilirubin",
+    "category": "Pathology",
+    "brick": "Introduction to Pathology, Cell Injury, and Adaptation"
+  },
+  {
+    "id": "padnd-092",
+    "imageRef": "padnd-092_pa021_f17.png",
+    "label": "Dystrophic calcification",
+    "category": "Pathology",
+    "brick": "Introduction to Pathology, Cell Injury, and Adaptation"
+  },
+  {
+    "id": "padnd-093",
+    "imageRef": "padnd-093_pa021_f20.png",
+    "label": "Endometrial hyperplasia",
+    "category": "Pathology",
+    "brick": "Introduction to Pathology, Cell Injury, and Adaptation"
+  },
+  {
+    "id": "padnd-094",
+    "imageRef": "padnd-094_pa021_f22.png",
+    "label": "Cell injury",
+    "category": "Physiology & Mechanisms",
+    "brick": "Introduction to Pathology, Cell Injury, and Adaptation"
+  },
+  {
+    "id": "padnd-095",
+    "imageRef": "padnd-095_pa022_f04.png",
+    "label": "MHC class I loss",
+    "category": "Physiology & Mechanisms",
+    "brick": "Cancer Immune Evasion"
+  },
+  {
+    "id": "padnd-096",
+    "imageRef": "padnd-096_pa022_f09.png",
+    "label": "Checkpoint inhibitors",
+    "category": "Pharmacology",
+    "brick": "Cancer Immune Evasion"
+  },
+  {
+    "id": "padnd-097",
+    "imageRef": "padnd-097_pa023_f03.png",
+    "label": "Xeroderma pigmentosum",
+    "category": "Pathology",
+    "brick": "Hallmarks of Neoplasia: Genomic Instability"
+  },
+  {
+    "id": "padnd-098",
+    "imageRef": "padnd-098_pa023_f04.png",
+    "label": "Mismatch repair",
+    "category": "Pathology",
+    "brick": "Hallmarks of Neoplasia: Genomic Instability"
+  },
+  {
+    "id": "padnd-099",
+    "imageRef": "padnd-099_pa023_f05.png",
+    "label": "MMR immunohistochemistry",
+    "category": "Lab & Diagnostics",
+    "brick": "Hallmarks of Neoplasia: Genomic Instability"
+  },
+  {
+    "id": "padnd-100",
+    "imageRef": "padnd-100_pa023_f07.png",
+    "label": "Ataxia telangiectasia",
+    "category": "Pathology",
+    "brick": "Hallmarks of Neoplasia: Genomic Instability"
+  },
+  {
+    "id": "padnd-101",
+    "imageRef": "padnd-101_pa024_f01.png",
+    "label": "Small cell carcinoma",
+    "category": "Histology & Cell Biology",
+    "brick": "Paraneoplastic Syndromes"
+  },
+  {
+    "id": "padnd-102",
+    "imageRef": "padnd-102_pa025_f01.png",
+    "label": "Pap smear",
+    "category": "Lab & Diagnostics",
+    "brick": "Epidemiology of Cancer"
+  },
+  {
+    "id": "padnd-103",
+    "imageRef": "padnd-103_pa025_f02.png",
+    "label": "Colon adenoma",
+    "category": "Pathology",
+    "brick": "Epidemiology of Cancer"
+  },
+  {
+    "id": "padnd-104",
+    "imageRef": "padnd-104_pa025_f03.png",
+    "label": "Mammography",
+    "category": "Lab & Diagnostics",
+    "brick": "Epidemiology of Cancer"
+  },
+  {
+    "id": "padnd-105",
+    "imageRef": "padnd-105_pa026_f01.png",
+    "label": "Mediastinal lymphadenopathy",
+    "category": "Lab & Diagnostics",
+    "brick": "Pathogen-Associated Neoplasms"
+  },
+  {
+    "id": "padnd-106",
+    "imageRef": "padnd-106_pa026_f02.png",
+    "label": "Reed-Sternberg cell",
+    "category": "Histology & Cell Biology",
+    "brick": "Pathogen-Associated Neoplasms"
+  },
+  {
+    "id": "padnd-107",
+    "imageRef": "padnd-107_pa026_f03.png",
+    "label": "Burkitt lymphoma",
+    "category": "Histology & Cell Biology",
+    "brick": "Pathogen-Associated Neoplasms"
+  },
+  {
+    "id": "padnd-108",
+    "imageRef": "padnd-108_pa026_f04.png",
+    "label": "Jaw mass",
+    "category": "Pathology",
+    "brick": "Pathogen-Associated Neoplasms"
+  },
+  {
+    "id": "padnd-109",
+    "imageRef": "padnd-109_pa026_f05.png",
+    "label": "Nasopharyngeal carcinoma",
+    "category": "Histology & Cell Biology",
+    "brick": "Pathogen-Associated Neoplasms"
+  },
+  {
+    "id": "padnd-110",
+    "imageRef": "padnd-110_pa026_f08.png",
+    "label": "Hepatocellular carcinoma",
+    "category": "Pathology",
+    "brick": "Pathogen-Associated Neoplasms"
+  },
+  {
+    "id": "padnd-111",
+    "imageRef": "padnd-111_pa026_f10.png",
+    "label": "Verruca vulgaris",
+    "category": "Pathology",
+    "brick": "Pathogen-Associated Neoplasms"
+  },
+  {
+    "id": "padnd-112",
+    "imageRef": "padnd-112_pa026_f13.png",
+    "label": "Flower cell",
+    "category": "Histology & Cell Biology",
+    "brick": "Pathogen-Associated Neoplasms"
+  },
+  {
+    "id": "padnd-113",
+    "imageRef": "padnd-113_pa026_f14.png",
+    "label": "Gastric adenocarcinoma",
+    "category": "Lab & Diagnostics",
+    "brick": "Pathogen-Associated Neoplasms"
+  },
+  {
+    "id": "padnd-114",
+    "imageRef": "padnd-114_pa026_f15.png",
+    "label": "Chronic gastritis",
+    "category": "Histology & Cell Biology",
+    "brick": "Pathogen-Associated Neoplasms"
+  },
+  {
+    "id": "padnd-115",
+    "imageRef": "padnd-115_pa026_f16.png",
+    "label": "Intestinal metaplasia",
+    "category": "Histology & Cell Biology",
+    "brick": "Pathogen-Associated Neoplasms"
+  },
+  {
+    "id": "padnd-116",
+    "imageRef": "padnd-116_pa026_f17.png",
+    "label": "Gastric adenocarcinoma",
+    "category": "Histology & Cell Biology",
+    "brick": "Pathogen-Associated Neoplasms"
+  },
+  {
+    "id": "padnd-117",
+    "imageRef": "padnd-117_pa026_f18.png",
+    "label": "MALT lymphoma",
+    "category": "Histology & Cell Biology",
+    "brick": "Pathogen-Associated Neoplasms"
+  },
+  {
+    "id": "padnd-118",
+    "imageRef": "padnd-118_pa026_f19.png",
+    "label": "Schistosoma eggs",
+    "category": "Pathology",
+    "brick": "Pathogen-Associated Neoplasms"
+  },
+  {
+    "id": "padnd-119",
+    "imageRef": "padnd-119_pa028_f03.png",
+    "label": "ChemoMan",
+    "category": "Pharmacology",
+    "brick": "Cancer Medications Overview"
+  },
+  {
+    "id": "padnd-120",
+    "imageRef": "padnd-120_pa029_f01.png",
+    "label": "Cell injury",
+    "category": "Physiology & Mechanisms",
+    "brick": "Cell Death: Apoptosis and Necrosis"
+  },
+  {
+    "id": "padnd-121",
+    "imageRef": "padnd-121_pa029_f02.png",
+    "label": "Cell injury mechanisms",
+    "category": "Physiology & Mechanisms",
+    "brick": "Cell Death: Apoptosis and Necrosis"
+  },
+  {
+    "id": "padnd-122",
+    "imageRef": "padnd-122_pa029_f03.png",
+    "label": "BCL2",
+    "category": "Pathology",
+    "brick": "Cell Death: Apoptosis and Necrosis"
+  },
+  {
+    "id": "padnd-123",
+    "imageRef": "padnd-123_pa029_f07.png",
+    "label": "Apoptotic cell",
+    "category": "Histology & Cell Biology",
+    "brick": "Cell Death: Apoptosis and Necrosis"
+  },
+  {
+    "id": "padnd-124",
+    "imageRef": "padnd-124_pa029_f08.png",
+    "label": "Coagulative necrosis",
+    "category": "Pathology",
+    "brick": "Cell Death: Apoptosis and Necrosis"
+  },
+  {
+    "id": "padnd-125",
+    "imageRef": "padnd-125_pa029_f09.png",
+    "label": "Liquefactive necrosis",
+    "category": "Pathology",
+    "brick": "Cell Death: Apoptosis and Necrosis"
+  },
+  {
+    "id": "padnd-126",
+    "imageRef": "padnd-126_pa029_f10.png",
+    "label": "Gangrenous necrosis",
+    "category": "Pathology",
+    "brick": "Cell Death: Apoptosis and Necrosis"
+  },
+  {
+    "id": "padnd-127",
+    "imageRef": "padnd-127_pa029_f11.png",
+    "label": "Caseous necrosis",
+    "category": "Pathology",
+    "brick": "Cell Death: Apoptosis and Necrosis"
+  },
+  {
+    "id": "padnd-128",
+    "imageRef": "padnd-128_pa029_f12.png",
+    "label": "Fat necrosis",
+    "category": "Pathology",
+    "brick": "Cell Death: Apoptosis and Necrosis"
+  },
+  {
+    "id": "padnd-129",
+    "imageRef": "padnd-129_pa029_f13.png",
+    "label": "Fibrinoid necrosis",
+    "category": "Pathology",
+    "brick": "Cell Death: Apoptosis and Necrosis"
+  },
+  {
+    "id": "padnd-130",
+    "imageRef": "padnd-130_pa030_f01.png",
+    "label": "Punch biopsy",
+    "category": "Lab & Diagnostics",
+    "brick": "Introduction to Anatomic Pathology"
+  },
+  {
+    "id": "padnd-131",
+    "imageRef": "padnd-131_pa030_f02.png",
+    "label": "Excisional biopsy",
+    "category": "Lab & Diagnostics",
+    "brick": "Introduction to Anatomic Pathology"
+  },
+  {
+    "id": "padnd-132",
+    "imageRef": "padnd-132_pa030_f05.png",
+    "label": "FFPE blocks",
+    "category": "Lab & Diagnostics",
+    "brick": "Introduction to Anatomic Pathology"
+  },
+  {
+    "id": "padnd-133",
+    "imageRef": "padnd-133_pa030_f06.png",
+    "label": "H&E stain",
+    "category": "Histology & Cell Biology",
+    "brick": "Introduction to Anatomic Pathology"
+  },
+  {
+    "id": "padnd-134",
+    "imageRef": "padnd-134_pa030_f07.png",
+    "label": "GMS stain",
+    "category": "Lab & Diagnostics",
+    "brick": "Introduction to Anatomic Pathology"
+  },
+  {
+    "id": "padnd-135",
+    "imageRef": "padnd-135_pa030_f08.png",
+    "label": "Immunohistochemistry",
+    "category": "Lab & Diagnostics",
+    "brick": "Introduction to Anatomic Pathology"
+  },
+  {
+    "id": "padnd-136",
+    "imageRef": "padnd-136_pa030_f09.png",
+    "label": "Papillary thyroid carcinoma",
+    "category": "Pathology",
+    "brick": "Introduction to Anatomic Pathology"
+  },
+  {
+    "id": "padnd-137",
+    "imageRef": "padnd-137_pa030_f10.png",
+    "label": "Pap smear",
+    "category": "Lab & Diagnostics",
+    "brick": "Introduction to Anatomic Pathology"
+  },
+  {
+    "id": "padnd-138",
+    "imageRef": "padnd-138_pa031_f03.png",
+    "label": "Pneumonia",
+    "category": "Lab & Diagnostics",
+    "brick": "Acute Inflammation"
+  },
+  {
+    "id": "padnd-139",
+    "imageRef": "padnd-139_pa031_f04.png",
+    "label": "Serous inflammation",
+    "category": "Pathology",
+    "brick": "Acute Inflammation"
+  },
+  {
+    "id": "padnd-140",
+    "imageRef": "padnd-140_pa031_f05.png",
+    "label": "Fibrinous pericarditis",
+    "category": "Pathology",
+    "brick": "Acute Inflammation"
+  },
+  {
+    "id": "padnd-141",
+    "imageRef": "padnd-141_pa031_f06.png",
+    "label": "Duodenal ulcer",
+    "category": "Pathology",
+    "brick": "Acute Inflammation"
+  },
+  {
+    "id": "padnd-142",
+    "imageRef": "padnd-142_pa032_f02.png",
+    "label": "Lymphocyte",
+    "category": "Histology & Cell Biology",
+    "brick": "Chronic Inflammation"
+  },
+  {
+    "id": "padnd-143",
+    "imageRef": "padnd-143_pa032_f04.png",
+    "label": "Tuberculous granuloma",
+    "category": "Pathology",
+    "brick": "Chronic Inflammation"
+  },
+  {
+    "id": "padnd-144",
+    "imageRef": "padnd-144_pa032_f06.png",
+    "label": "Non-necrotizing granuloma",
+    "category": "Pathology",
+    "brick": "Chronic Inflammation"
+  },
+  {
+    "id": "padnd-145",
+    "imageRef": "padnd-145_pa032_f07.png",
+    "label": "Sarcoid granuloma",
+    "category": "Pathology",
+    "brick": "Chronic Inflammation"
+  },
+  {
+    "id": "padnd-146",
+    "imageRef": "padnd-146_pa033_f01.png",
+    "label": "Extracellular matrix",
+    "category": "Histology & Cell Biology",
+    "brick": "Wound Healing and Tissue Repair"
+  },
+  {
+    "id": "padnd-147",
+    "imageRef": "padnd-147_pa033_f03.png",
+    "label": "Second intention",
+    "category": "Pathology",
+    "brick": "Wound Healing and Tissue Repair"
+  },
+  {
+    "id": "padnd-148",
+    "imageRef": "padnd-148_pa033_f04.png",
+    "label": "Keloid scar",
+    "category": "Pathology",
+    "brick": "Wound Healing and Tissue Repair"
+  },
+  {
+    "id": "padnd-149",
+    "imageRef": "padnd-149_pa033_f05.png",
+    "label": "Chronic wounds",
+    "category": "Pathology",
+    "brick": "Wound Healing and Tissue Repair"
+  }
+]
